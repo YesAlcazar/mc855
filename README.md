@@ -19,4 +19,4 @@ brew install hadoop
 
 ## Referências
 
-https://www.tutorialspoint.com/apache_spark/apache_spark_quick_guide.htm
+[TutorialsPoint - Spark Quick Guide](ttps://www.tutorialspoint.com/apache_spark/apache_spark_quick_guide.htm)
