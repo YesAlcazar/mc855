@@ -15,6 +15,7 @@ if __name__ == "__main__":
         .appName("PythonWordCount")\
         .getOrCreate()
 
+    #Read text from file, count frequency of each word, and order the words by frenquency
     lines = spark.read.text(sys.argv[1]).rdd.map(lambda r: r[0])
     counts = lines.flatMap(lambda x: x.split(' ')) \
                   .map(lambda x: (x, 1)) \
@@ -24,10 +25,13 @@ if __name__ == "__main__":
                   .map(lambda (a, b): (b, a))
     output = counts.collect()
 
-    number = 0;
-
+    #Number of words we will show
+    number = 10;
+    
+    
     for (word, count) in output:
-    	if len(word) > 2 and number < 10:
+        #Show words that have more than 2 letters
+    	if len(word) > 2 and number > 0:
         	print("%s: %i" % (word.encode('utf-8'), count))
         	number += 1
 
