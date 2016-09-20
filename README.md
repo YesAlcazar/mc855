@@ -6,3 +6,7 @@ echo 'export PATH="$HOME/.linuxbrew/bin:$PATH"' >>~/.bash_profile
 brew install apache-spark
 brew install jdk
 brew install hadoop
+
+## Referências
+
+https://www.tutorialspoint.com/apache_spark/apache_spark_quick_guide.htm
