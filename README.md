@@ -16,3 +16,7 @@ brew install hadoop
 ##Máquinas:
 * **Prod:** debian mc855Prod
 * **Test:** debian mc855Test
+
+## Referências
+
+https://www.tutorialspoint.com/apache_spark/apache_spark_quick_guide.htm
