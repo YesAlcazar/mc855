@@ -1,4 +1,4 @@
-# MC885
+# MC855
 
 Projetos de MC855 da Unicamp
 
@@ -30,9 +30,13 @@ tar xfz downloads/spark-2.0.0-bin-hadoop2.7.tgz
 ```
 
 ##Máquinas:
-* **Prod:** debian mc855Prod
-* **Test:** debian mc855Test
+* **Prod(143.106.73.44):** debian/mc855Prod
+* **Test(143.106.73.43):** debian/mc855Test
 
-## Referências
+## Referências:
 
 [TutorialsPoint - Spark Quick Guide](https://www.tutorialspoint.com/apache_spark/apache_spark_quick_guide.htm)
+
+##Problemas:
+
+[StackOverflow - Locale Warning Perl](http://stackoverflow.com/questions/2499794/how-can-i-fix-a-locale-warning-from-perl)
