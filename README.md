@@ -50,6 +50,10 @@ cd ..
 [Spark standalone cluster Tutorial](http://mbonaci.github.io/mbo-spark/)
 [Spinning up an Apache Spark Cluster: Step-by-Step](http://blog.insightdatalabs.com/spark-cluster-step-by-step/)
 
+[Um comparativo entre MapReduce e Spark para analise de Big Data](https://www.infoq.com/br/articles/mapreduce-vs-spark)
+
+[Five things you need to know about Hadoop v. Apache Spark](http://www.infoworld.com/article/3014440/big-data/five-things-you-need-to-know-about-hadoop-v-apache-spark.html)
+
 ##Problemas:
 
 [StackOverflow - Locale Warning Perl](http://stackoverflow.com/questions/2499794/how-can-i-fix-a-locale-warning-from-perl)
