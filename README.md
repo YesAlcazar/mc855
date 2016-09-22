@@ -30,6 +30,7 @@ tar xfz downloads/spark-2.0.0-bin-hadoop2.7.tgz
 git clone https://github.com/YesAlcazar/mc855.git
 cd mc855
 eval "$(ssh-agent -s)"
+chmod 400 cloud.key
 ssh-add cloud.key
 git remote set-url origin git@github.com:YesAlcazar/mc855.git
 git pull

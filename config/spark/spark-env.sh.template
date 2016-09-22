@@ -43,7 +43,6 @@
 
 # Options for the daemons used in the standalone deploy mode
 # - SPARK_MASTER_HOST, to bind the master to a different IP address or hostname
-SPARK_MASTER_HOST = 143.106.73.44
 # - SPARK_MASTER_PORT / SPARK_MASTER_WEBUI_PORT, to use non-default ports for the master
 # - SPARK_MASTER_OPTS, to set config properties only for the master (e.g. "-Dx=y")
 # - SPARK_WORKER_CORES, to set the number of cores to use on this machine
@@ -57,7 +56,6 @@ SPARK_MASTER_HOST = 143.106.73.44
 # - SPARK_SHUFFLE_OPTS, to set config properties only for the external shuffle service (e.g. "-Dx=y")
 # - SPARK_DAEMON_JAVA_OPTS, to set config properties for all daemons (e.g. "-Dx=y")
 # - SPARK_PUBLIC_DNS, to set the public dns name of the master or workers
-SPARK_PUBLIC_DNS = 143.106.73.44
 
 # Generic options for the daemons used in the standalone deploy mode
 # - SPARK_CONF_DIR      Alternate conf dir. (Default: ${SPARK_HOME}/conf)
