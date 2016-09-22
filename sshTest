@@ -1,1 +1,2 @@
+chmod 400 cloud.key
 ssh -i cloud.key debian@143.106.73.43
