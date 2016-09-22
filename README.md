@@ -42,6 +42,8 @@ git remote set-url
 
 [TutorialsPoint - Spark Quick Guide](https://www.tutorialspoint.com/apache_spark/apache_spark_quick_guide.htm)
 [LinkedIn - Configure Spark on a YARN Cluster](https://www.linkedin.com/pulse/how-configure-spark-cluster-yarn-artem-pichugin)
+[Spark standalone cluster Tutorial](http://mbonaci.github.io/mbo-spark/)
+[Spinning up an Apache Spark Cluster: Step-by-Step](http://blog.insightdatalabs.com/spark-cluster-step-by-step/)
 
 ##Problemas:
 
