@@ -48,6 +48,7 @@ cd ..
 [LinkedIn - Configure Spark on a YARN Cluster](https://www.linkedin.com/pulse/how-configure-spark-cluster-yarn-artem-pichugin)
 [Apache Hadoop - Cluster Setup](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/ClusterSetup.html)
 [Spark standalone cluster Tutorial](http://mbonaci.github.io/mbo-spark/)
+
 [Spinning up an Apache Spark Cluster: Step-by-Step](http://blog.insightdatalabs.com/spark-cluster-step-by-step/)
 
 [Um comparativo entre MapReduce e Spark para analise de Big Data](https://www.infoq.com/br/articles/mapreduce-vs-spark)
