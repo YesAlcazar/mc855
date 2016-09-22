@@ -31,7 +31,10 @@ git clone https://github.com/YesAlcazar/mc855.git
 cd mc855
 eval "$(ssh-agent -s)"
 ssh-add cloud.key
-git remote set-url
+git remote set-url origin git@github.com:YesAlcazar/mc855.git
+git pull
+cd ..
+
 ```
 
 ##Máquinas:
@@ -42,6 +45,7 @@ git remote set-url
 
 [TutorialsPoint - Spark Quick Guide](https://www.tutorialspoint.com/apache_spark/apache_spark_quick_guide.htm)
 [LinkedIn - Configure Spark on a YARN Cluster](https://www.linkedin.com/pulse/how-configure-spark-cluster-yarn-artem-pichugin)
+[Apache Hadoop - Cluster Setup](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/ClusterSetup.html)
 
 ##Problemas:
 
