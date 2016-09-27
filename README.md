@@ -60,6 +60,8 @@ cd ..
 
 [Running Spark Applications on YARN](https://www.cloudera.com/documentation/enterprise/5-6-x/topics/cdh_ig_running_spark_on_yarn.html)
 
+[Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
+
 ##Problemas:
 
 [StackOverflow - Locale Warning Perl](http://stackoverflow.com/questions/2499794/how-can-i-fix-a-locale-warning-from-perl)
