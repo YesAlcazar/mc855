@@ -58,6 +58,8 @@ cd ..
 
 [Five things you need to know about Hadoop v. Apache Spark](http://www.infoworld.com/article/3014440/big-data/five-things-you-need-to-know-about-hadoop-v-apache-spark.html)
 
+[Running Spark Applications on YARN](https://www.cloudera.com/documentation/enterprise/5-6-x/topics/cdh_ig_running_spark_on_yarn.html)
+
 ##Problemas:
 
 [StackOverflow - Locale Warning Perl](http://stackoverflow.com/questions/2499794/how-can-i-fix-a-locale-warning-from-perl)
