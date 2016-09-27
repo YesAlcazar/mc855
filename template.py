@@ -31,6 +31,7 @@ def main(sc):
     #************************
     #*   WRITE CODE HERE    *
     #************************
+    print "TEMPLATE"
 
 
 #DONT TOUCH HERE
