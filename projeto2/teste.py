@@ -101,7 +101,7 @@ def main(sc):
 
 if __name__ == "__main__":
     # Configure Spark
-    conf = SparkConf().setMaster("spark://143.106.73.61:7077")
+    conf = SparkConf().setMaster("spark://143.106.73.43:7077")
     conf = conf.setAppName(APP_NAME)
     sc   = SparkContext(conf=conf)
 

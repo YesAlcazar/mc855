@@ -1,0 +1,4 @@
+eval "$(ssh-agent -s)"
+chmod 600 cloud.key
+ssh-add cloud.key
+git pull remote origin master
