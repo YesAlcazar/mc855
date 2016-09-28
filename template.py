@@ -8,7 +8,7 @@ import sys
 TEST_URL = "spark://143.106.73.43:7077"
 PROD_URL = "spark://143.106.73.44:7077"
 CALZOLARI_URL = "spark://143.106.73.61:7077"
-LOCAL_URL = "local [*]"
+LOCAL_URL = "local[*]"
 #****END DONT TOUCH HERE
 
 #**************************
@@ -18,7 +18,7 @@ LOCAL_URL = "local [*]"
 #DEFINE APP_NAME
 APP_NAME = "TEMPLATE"
 #DEFINE MASTER_URL
-MASTER_URL = TEST_URL
+MASTER_URL = LOCAL_URL
 #DEFINE FILE_STDOUT
 FILE_STDOUT = "py_out.txt"
 #DEFINE FILE_STDERR
