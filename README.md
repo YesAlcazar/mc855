@@ -9,11 +9,11 @@ sudo apt-get install build-essential curl git ruby
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install)"
 PATH="$HOME/.linuxbrew/bin:$PATH"
 echo 'export PATH="$HOME/.linuxbrew/bin:$PATH"' >>~/.bash_profile
+brew install python
 brew install jdk
 brew install scala
 brew install hadoop
 brew install apache-spark
-brew install python
 export JAVA_HOME=/home/debian/.linuxbrew/Cellar/jdk/1.8.0-102/
 export LC_CTYPE=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
@@ -23,6 +23,7 @@ export LC_ALL=en_US.UTF-8
 ```
 pip install requests
 pip install matplotlib
+pip install wikipedia
 mkdir downloads
 cd downloads
 wget https://archive.apache.org/dist/hadoop/common/hadoop-2.7.2/hadoop-2.7.2.tar.gz

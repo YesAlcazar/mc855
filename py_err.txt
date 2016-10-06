@@ -1,24 +1,613 @@
 
 
 APP_NAME: TEMPLATE
-APP_ID: app-20160927234532-0016
-MASTER_URL: spark://143.106.73.43:7077
-NOW: 2016-09-27 20:45:52.477213
-UTC: 2016-09-27 23:45:52.477223
-
-
-
-APP_NAME: TEMPLATE
-APP_ID: app-20160928151239-0017
-MASTER_URL: spark://143.106.73.43:7077
-NOW: 2016-09-28 12:13:00.497240
-UTC: 2016-09-28 15:13:00.497249
-
-
-
-APP_NAME: TEMPLATE
-APP_ID: local-1475076840007
+APP_ID: local-1475158535495
 MASTER_URL: local[*]
-NOW: 2016-09-28 12:34:00.405023
-UTC: 2016-09-28 15:34:00.405037
+UTC: 2016-09-29 14:15:31.487074
 
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159288361
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:28:06.903792
+
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159352798
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:29:11.050374
+
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159507373
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:31:45.556513
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 53, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 37, in main
+    print wikipedia.page("New York")
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 270, in page
+    results, suggestion = search(title, results=1, suggestion=True)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/util.py", line 28, in __call__
+    ret = self._cache[key] = self.fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 103, in search
+    raw_results = _wiki_request(search_params)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 737, in _wiki_request
+    r = requests.get(API_URL, params=params, headers=headers)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='aln.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?srinfo=suggestion&srsearch=New+York&format=json&srlimit=1&list=search&srprop=&limit=1&action=query (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10e0a8890>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159545630
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:32:23.096205
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 53, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 37, in main
+    print wikipedia.page("New York").content
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 270, in page
+    results, suggestion = search(title, results=1, suggestion=True)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/util.py", line 28, in __call__
+    ret = self._cache[key] = self.fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 103, in search
+    raw_results = _wiki_request(search_params)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 737, in _wiki_request
+    r = requests.get(API_URL, params=params, headers=headers)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='aln.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?srinfo=suggestion&srsearch=New+York&format=json&srlimit=1&list=search&srprop=&limit=1&action=query (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x1115c6890>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159597397
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:33:12.789768
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 53, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 37, in main
+    print wikipedia.page("New York").content
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 270, in page
+    results, suggestion = search(title, results=1, suggestion=True)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/util.py", line 28, in __call__
+    ret = self._cache[key] = self.fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 103, in search
+    raw_results = _wiki_request(search_params)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 737, in _wiki_request
+    r = requests.get(API_URL, params=params, headers=headers)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='aln.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?srinfo=suggestion&srsearch=New+York&format=json&srlimit=1&list=search&srprop=&limit=1&action=query (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x106166810>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159639433
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:33:57.543384
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 54, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 38, in main
+    print wikipedia.page("New York").content
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 270, in page
+    results, suggestion = search(title, results=1, suggestion=True)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/util.py", line 28, in __call__
+    ret = self._cache[key] = self.fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 103, in search
+    raw_results = _wiki_request(search_params)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 737, in _wiki_request
+    r = requests.get(API_URL, params=params, headers=headers)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='aln.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?srinfo=suggestion&srsearch=New+York&format=json&srlimit=1&list=search&srprop=&limit=1&action=query (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x110bcf8d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159682046
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:34:38.652649
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 54, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 38, in main
+    print wikipedia.summary("New York")
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/util.py", line 28, in __call__
+    ret = self._cache[key] = self.fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 231, in summary
+    page_info = page(title, auto_suggest=auto_suggest, redirect=redirect)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 270, in page
+    results, suggestion = search(title, results=1, suggestion=True)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/util.py", line 28, in __call__
+    ret = self._cache[key] = self.fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 103, in search
+    raw_results = _wiki_request(search_params)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 737, in _wiki_request
+    r = requests.get(API_URL, params=params, headers=headers)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='aln.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?srinfo=suggestion&srsearch=New+York&format=json&srlimit=1&list=search&srprop=&limit=1&action=query (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10c202150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159748157
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:35:45.922471
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 55, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 39, in main
+    print wikipedia.summary("New York")
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/util.py", line 28, in __call__
+    ret = self._cache[key] = self.fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 231, in summary
+    page_info = page(title, auto_suggest=auto_suggest, redirect=redirect)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 270, in page
+    results, suggestion = search(title, results=1, suggestion=True)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/util.py", line 28, in __call__
+    ret = self._cache[key] = self.fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 103, in search
+    raw_results = _wiki_request(search_params)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 737, in _wiki_request
+    r = requests.get(API_URL, params=params, headers=headers)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='aln.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?srinfo=suggestion&srsearch=New+York&format=json&srlimit=1&list=search&srprop=&limit=1&action=query (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10279b150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159780212
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:36:12.912769
+
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475160149376
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:42:26.348166
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 62, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 35, in main
+    languages = wikipedia.languages()
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/util.py", line 28, in __call__
+    ret = self._cache[key] = self.fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 692, in languages
+    'siprop': 'languages'
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 737, in _wiki_request
+    r = requests.get(API_URL, params=params, headers=headers)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/adapters.py", line 473, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', error(54, 'Connection reset by peer'))
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475160298882
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:44:57.064703
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 64, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 41, in main
+    print wikipedia.summary("Mercury")
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/util.py", line 28, in __call__
+    ret = self._cache[key] = self.fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 231, in summary
+    page_info = page(title, auto_suggest=auto_suggest, redirect=redirect)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 270, in page
+    results, suggestion = search(title, results=1, suggestion=True)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/util.py", line 28, in __call__
+    ret = self._cache[key] = self.fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 103, in search
+    raw_results = _wiki_request(search_params)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 737, in _wiki_request
+    r = requests.get(API_URL, params=params, headers=headers)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='aln.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?srinfo=suggestion&srsearch=Mercury&format=json&srlimit=1&list=search&srprop=&limit=1&action=query (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x105eff8d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475160401655
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:46:39.858082
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 66, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 46, in main
+    except requests.exceptions.ConnectionError as e:
+NameError: global name 'requests' is not defined
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475160427442
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:47:05.583724
+
+HTTPConnectionPool(host='aln.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?srinfo=suggestion&srsearch=Mercury&format=json&srlimit=1&list=search&srprop=&limit=1&action=query (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x1082fa150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 66, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 41, in main
+    print wikipedia.summary("Mercury")
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 124-127: ordinal not in range(128)
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475160482690
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:47:59.786183
+
+HTTPConnectionPool(host='aln.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?srinfo=suggestion&srsearch=Barack+Obama&format=json&srlimit=1&list=search&srprop=&limit=1&action=query (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10862e150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 66, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 41, in main
+    print wikipedia.summary("Barack Obama")
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-7: ordinal not in range(128)
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20160929145044-0018
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-09-29 14:51:03.782350
+
+HTTPConnectionPool(host='aln.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?srinfo=suggestion&srsearch=Barack+Obama&format=json&srlimit=1&list=search&srprop=&limit=1&action=query (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10f6bd150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 68, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 41, in main
+    print wikipedia.summary("Barack Obama")
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-7: ordinal not in range(128)
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20160929145200-0019
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-09-29 14:52:19.735590
+
+HTTPConnectionPool(host='aln.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?srinfo=suggestion&srsearch=Barack+Obama&format=json&srlimit=1&list=search&srprop=&limit=1&action=query (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x10c934850>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 68, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 41, in main
+    print wikipedia.summary("Barack Obama")
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 0-7: ordinal not in range(128)
+
+
+APP_NAME: TEMPLATE
+APP_ID: app-20160929200353-0014
+MASTER_URL: spark://143.106.73.61:7077
+UTC: 2016-09-29 20:04:10.358014
+
+
+
+APP_NAME: TEMPLATE
+APP_ID: app-20160929200558-0015
+MASTER_URL: spark://143.106.73.61:7077
+UTC: 2016-09-29 20:06:16.209258
+
+
+
+APP_NAME: TEMPLATE
+APP_ID: app-20160929200616-0020
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-09-29 20:06:35.196337
+
+
+
+APP_NAME: TEMPLATE
+APP_ID: app-20160929200933-0021
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-09-29 20:09:53.456192
+
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475714954454
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:49:12.480306
+
+HTTPConnectionPool(host='aln.wikipedia.org', port=80): Max retries exceeded with url: /w/api.php?action=query&list=random&rnlimit=10&rnnamespace=0&format=json (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x105b678d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 71, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 43, in main
+    print page
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xc7' in position 0: ordinal not in range(128)
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715077229
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:51:15.031625
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 72, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 37, in main
+    print language
+NameError: global name 'language' is not defined
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715125693
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:52:04.224363
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 73, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 44, in main
+    print page
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xf3' in position 11: ordinal not in range(128)
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715162690
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:52:40.782956
+
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715286947
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:54:43.697714
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 73, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 44, in main
+    print page.content
+AttributeError: 'unicode' object has no attribute 'content'
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715329809
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:55:27.227307
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 73, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 44, in main
+    print page.content()
+AttributeError: 'unicode' object has no attribute 'content'
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715577846
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:59:36.221241
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 73, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 44, in main
+    print page.type()
+AttributeError: 'unicode' object has no attribute 'type'
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715752839
+MASTER_URL: local[*]
+UTC: 2016-10-06 01:02:31.225255
+
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 74 of the file /Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715929265
+MASTER_URL: local[*]
+UTC: 2016-10-06 01:05:27.321579
+
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 75 of the file /Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715987722
+MASTER_URL: local[*]
+UTC: 2016-10-06 01:06:25.728858
+
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475716059753
+MASTER_URL: local[*]
+UTC: 2016-10-06 01:07:38.415847
+
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475736342884
+MASTER_URL: local[*]
+UTC: 2016-10-06 06:45:39.735335
+
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475736441148
+MASTER_URL: local[*]
+UTC: 2016-10-06 06:47:18.683080
+
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475736708136
+MASTER_URL: local[*]
+UTC: 2016-10-06 06:51:45.612335
+
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475738898629
+MASTER_URL: local[*]
+UTC: 2016-10-06 07:28:15.582736
+
+'dict' object has no attribute 'add'
+Page id "drummond cove western australian" does not match any pages. Try another id!
+'dict' object has no attribute 'add'
+'dict' object has no attribute 'add'
+'dict' object has no attribute 'add'
+'dict' object has no attribute 'add'
+'dict' object has no attribute 'add'
+'dict' object has no attribute 'add'
+'dict' object has no attribute 'add'
+'dict' object has no attribute 'add'
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475739361804
+MASTER_URL: local[*]
+UTC: 2016-10-06 07:35:59.163123
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 101, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 44, in main
+    addPageRecursive(randPageName,wikidict)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 74, in addPageRecursive
+    addPageRecursive(link,wikidict,recursive-1)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 74, in addPageRecursive
+    addPageRecursive(link,wikidict,recursive-1)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 69, in addPageRecursive
+    links = page.links
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 612, in links
+    'pllimit': 'max'
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 413, in __continued_query
+    request = _wiki_request(params)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 737, in _wiki_request
+    r = requests.get(API_URL, params=params, headers=headers)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 617, in send
+    history = [resp for resp in gen] if allow_redirects else []
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 177, in resolve_redirects
+    **adapter_kwargs
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/adapters.py", line 423, in send
+    timeout=timeout
+  File "/usr/local/lib/python2.7/site-packages/requests/packages/urllib3/connectionpool.py", line 595, in urlopen
+    chunked=chunked)
+  File "/usr/local/lib/python2.7/site-packages/requests/packages/urllib3/connectionpool.py", line 352, in _make_request
+    self._validate_conn(conn)
+  File "/usr/local/lib/python2.7/site-packages/requests/packages/urllib3/connectionpool.py", line 831, in _validate_conn
+    conn.connect()
+  File "/usr/local/lib/python2.7/site-packages/requests/packages/urllib3/connection.py", line 289, in connect
+    ssl_version=resolved_ssl_version)
+  File "/usr/local/lib/python2.7/site-packages/requests/packages/urllib3/util/ssl_.py", line 308, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 353, in wrap_socket
+    _context=self)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 601, in __init__
+    self.do_handshake()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 830, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/local/Cellar/apache-spark/2.0.0/libexec/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt

@@ -1,33 +1,1990 @@
 
 
 APP_NAME: TEMPLATE
-APP_ID: app-20160927234532-0016
-MASTER_URL: spark://143.106.73.43:7077
-NOW: 2016-09-27 20:45:52.477213
-UTC: 2016-09-27 23:45:52.477223
-
-TEMPLATE
-
-
-
-
-APP_NAME: TEMPLATE
-APP_ID: app-20160928151239-0017
-MASTER_URL: spark://143.106.73.43:7077
-NOW: 2016-09-28 12:13:00.497240
-UTC: 2016-09-28 15:13:00.497249
-
-TEMPLATE
-
-
-
-
-APP_NAME: TEMPLATE
-APP_ID: local-1475076840007
+APP_ID: local-1475158535495
 MASTER_URL: local[*]
-NOW: 2016-09-28 12:34:00.405023
-UTC: 2016-09-28 15:34:00.405037
+UTC: 2016-09-29 14:15:31.487074
 
 TEMPLATE
 
 
+APP_NAME: TEMPLATE
+APP_ID: local-1475159288361
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:28:06.903792
+
+aln
+gv
+gu
+scn
+sr-ec
+sr-el
+sco
+zh-hk
+gd
+ga
+gn
+gl
+als
+vep
+lki
+tw
+tt
+tr
+ts
+bqi
+tn
+to
+tl
+tk
+th
+ti
+tg
+te
+mwl
+lrc
+rm
+vls
+zh-hans
+bxr
+fiu-vro
+tru
+diq
+ku-arab
+zh
+pms
+za
+zu
+tet
+new
+gom-latn
+tokipona
+zh-sg
+tg-cyrl
+lez
+kk-cn
+glk
+my
+ty
+ruq-latn
+qug
+sgs
+ruq-cyrl
+brh
+ko-kp
+cho
+chr
+vi
+chy
+vec
+pfl
+vot
+mg
+ml
+mo
+mn
+mi
+mh
+mk
+mt
+ms
+mr
+ta
+shi-latn
+srn
+ia
+uz-latn
+bbc-latn
+tzm
+gan-hans
+gan-hant
+csb
+cbk-zam
+ig
+fr
+lad
+fy
+fa
+ff
+mai
+fi
+fj
+fo
+ss
+sr
+sq
+sw
+sv
+su
+st
+sk
+si
+sh
+so
+sn
+sm
+sl
+sc
+sa
+sg
+se
+sd
+zea
+wuu
+vmf
+kbd
+lg
+lb
+fit
+la
+ln
+lo
+li
+lv
+lt
+pcd
+yi
+lzz
+ceb
+yo
+kk-kz
+lzh
+qu
+nov
+de-ch
+map-bms
+el
+eo
+en
+ee
+lfn
+mdf
+eu
+et
+zh-hant
+es
+gom
+ru
+rw
+got
+rn
+ro
+dsb
+sma
+be-x-old
+ast
+ase
+lmo
+ltg
+yue
+xh
+de-formal
+koi
+ku-latn
+pnt
+pnb
+udm
+roa-rup
+kbd-cyrl
+dty
+stq
+roa-tara
+dtp
+prg
+ang
+bho
+lbe
+sat
+min
+lij
+kk-arab
+liv
+sei
+kab
+kaa
+egl
+hif-latn
+tyv
+awa
+en-ca
+ka
+kg
+ckb
+kk
+kj
+ki
+ko
+kn
+km
+kl
+ks
+kr
+ext
+kw
+kv
+mrj
+ky
+szl
+cdo
+pt-br
+hrx
+xmf
+jam
+uz-cyrl
+ksh
+de
+da
+dz
+hif
+aeb-arab
+dv
+hil
+bar
+eml
+kk-cyrl
+aeb
+ban
+shi
+crh
+shn
+arq
+ses
+ary
+arz
+rmy
+ks-arab
+arc
+bto
+arn
+en-gb
+lus
+mus
+luz
+zh-cn
+wa
+wo
+jv
+tum
+tg-latn
+vro
+ja
+ilo
+tly
+pdt
+pdc
+aa
+ch
+co
+simple
+ca
+ce
+cy
+sah
+cs
+cr
+cv
+cu
+frc
+ps
+pt
+zh-tw
+ady-cyrl
+bbc
+frr
+pa
+xal
+pi
+pl
+nrm
+gom-deva
+zh-my
+ike-latn
+gan
+bat-smg
+gag
+zh-mo
+an
+fur
+sli
+anp
+ug-arab
+pih
+ve
+crh-latn
+is
+iu
+it
+vo
+ii
+ik
+io
+avk
+rif
+ie
+id
+nds-nl
+pap
+ug-latn
+pag
+pam
+nl-informal
+aeb-latn
+kiu
+mzn
+niu
+gsw
+jbo
+nb
+tcy
+hak
+ady
+rgn
+haw
+tt-cyrl
+bpy
+mhr
+olo
+kk-tr
+tt-latn
+ike-cans
+hsb
+be
+bg
+myv
+ba
+bm
+bn
+bo
+bh
+bi
+rue
+br
+bs
+rup
+ruq
+om
+ace
+oc
+bgn
+krj
+kri
+be-tarask
+de-at
+krc
+nds
+os
+or
+nso
+bjn
+zh-min-nan
+frp
+loz
+war
+hz
+hy
+hr
+ht
+hu
+hi
+ho
+jut
+sdc
+ha
+sdh
+bug
+he
+kk-latn
+uz
+azb
+ur
+uk
+ug
+crh-cyrl
+ab
+af
+ak
+am
+ks-deva
+khw
+as
+ar
+inh
+tpi
+av
+ay
+az
+nl
+nn
+no
+na
+nah
+nan
+ne
+ng
+ny
+nap
+grc
+shi-tfng
+nv
+ku
+zh-yue
+zh-classical
+bcl
+bcc
+cps
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159352798
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:29:11.050374
+
+aln
+gv
+gu
+scn
+sr-ec
+sr-el
+sco
+zh-hk
+gd
+ga
+gn
+gl
+als
+vep
+lki
+tw
+tt
+tr
+ts
+bqi
+tn
+to
+tl
+tk
+th
+ti
+tg
+te
+mwl
+lrc
+rm
+vls
+zh-hans
+bxr
+fiu-vro
+tru
+diq
+ku-arab
+zh
+pms
+za
+zu
+tet
+new
+gom-latn
+tokipona
+zh-sg
+tg-cyrl
+lez
+kk-cn
+glk
+my
+ty
+ruq-latn
+qug
+sgs
+ruq-cyrl
+brh
+ko-kp
+cho
+chr
+vi
+chy
+vec
+pfl
+vot
+mg
+ml
+mo
+mn
+mi
+mh
+mk
+mt
+ms
+mr
+ta
+shi-latn
+srn
+ia
+uz-latn
+bbc-latn
+tzm
+gan-hans
+gan-hant
+csb
+cbk-zam
+ig
+fr
+lad
+fy
+fa
+ff
+mai
+fi
+fj
+fo
+ss
+sr
+sq
+sw
+sv
+su
+st
+sk
+si
+sh
+so
+sn
+sm
+sl
+sc
+sa
+sg
+se
+sd
+zea
+wuu
+vmf
+kbd
+lg
+lb
+fit
+la
+ln
+lo
+li
+lv
+lt
+pcd
+yi
+lzz
+ceb
+yo
+kk-kz
+lzh
+qu
+nov
+de-ch
+map-bms
+el
+eo
+en
+ee
+lfn
+mdf
+eu
+et
+zh-hant
+es
+gom
+ru
+rw
+got
+rn
+ro
+dsb
+sma
+be-x-old
+ast
+ase
+lmo
+ltg
+yue
+xh
+de-formal
+koi
+ku-latn
+pnt
+pnb
+udm
+roa-rup
+kbd-cyrl
+dty
+stq
+roa-tara
+dtp
+prg
+ang
+bho
+lbe
+sat
+min
+lij
+kk-arab
+liv
+sei
+kab
+kaa
+egl
+hif-latn
+tyv
+awa
+en-ca
+ka
+kg
+ckb
+kk
+kj
+ki
+ko
+kn
+km
+kl
+ks
+kr
+ext
+kw
+kv
+mrj
+ky
+szl
+cdo
+pt-br
+hrx
+xmf
+jam
+uz-cyrl
+ksh
+de
+da
+dz
+hif
+aeb-arab
+dv
+hil
+bar
+eml
+kk-cyrl
+aeb
+ban
+shi
+crh
+shn
+arq
+ses
+ary
+arz
+rmy
+ks-arab
+arc
+bto
+arn
+en-gb
+lus
+mus
+luz
+zh-cn
+wa
+wo
+jv
+tum
+tg-latn
+vro
+ja
+ilo
+tly
+pdt
+pdc
+aa
+ch
+co
+simple
+ca
+ce
+cy
+sah
+cs
+cr
+cv
+cu
+frc
+ps
+pt
+zh-tw
+ady-cyrl
+bbc
+frr
+pa
+xal
+pi
+pl
+nrm
+gom-deva
+zh-my
+ike-latn
+gan
+bat-smg
+gag
+zh-mo
+an
+fur
+sli
+anp
+ug-arab
+pih
+ve
+crh-latn
+is
+iu
+it
+vo
+ii
+ik
+io
+avk
+rif
+ie
+id
+nds-nl
+pap
+ug-latn
+pag
+pam
+nl-informal
+aeb-latn
+kiu
+mzn
+niu
+gsw
+jbo
+nb
+tcy
+hak
+ady
+rgn
+haw
+tt-cyrl
+bpy
+mhr
+olo
+kk-tr
+tt-latn
+ike-cans
+hsb
+be
+bg
+myv
+ba
+bm
+bn
+bo
+bh
+bi
+rue
+br
+bs
+rup
+ruq
+om
+ace
+oc
+bgn
+krj
+kri
+be-tarask
+de-at
+krc
+nds
+os
+or
+nso
+bjn
+zh-min-nan
+frp
+loz
+war
+hz
+hy
+hr
+ht
+hu
+hi
+ho
+jut
+sdc
+ha
+sdh
+bug
+he
+kk-latn
+uz
+azb
+ur
+uk
+ug
+crh-cyrl
+ab
+af
+ak
+am
+ks-deva
+khw
+as
+ar
+inh
+tpi
+av
+ay
+az
+nl
+nn
+no
+na
+nah
+nan
+ne
+ng
+ny
+nap
+grc
+shi-tfng
+nv
+ku
+zh-yue
+zh-classical
+bcl
+bcc
+cps
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159507373
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:31:45.556513
+
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159545630
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:32:23.096205
+
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159597397
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:33:12.789768
+
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159639433
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:33:57.543384
+
+aln
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159682046
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:34:38.652649
+
+aln
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159748157
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:35:45.922471
+
+aln
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475159780212
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:36:12.912769
+
+aln
+gv
+gu
+scn
+sr-ec
+sr-el
+sco
+zh-hk
+gd
+ga
+gn
+gl
+als
+vep
+lki
+tw
+tt
+tr
+ts
+bqi
+tn
+to
+tl
+tk
+th
+ti
+tg
+te
+mwl
+lrc
+rm
+vls
+zh-hans
+bxr
+fiu-vro
+tru
+diq
+ku-arab
+zh
+pms
+za
+zu
+tet
+new
+gom-latn
+tokipona
+zh-sg
+tg-cyrl
+lez
+kk-cn
+glk
+my
+ty
+ruq-latn
+qug
+sgs
+ruq-cyrl
+brh
+ko-kp
+cho
+chr
+vi
+chy
+vec
+pfl
+vot
+mg
+ml
+mo
+mn
+mi
+mh
+mk
+mt
+ms
+mr
+ta
+shi-latn
+srn
+ia
+uz-latn
+bbc-latn
+tzm
+gan-hans
+gan-hant
+csb
+cbk-zam
+ig
+fr
+lad
+fy
+fa
+ff
+mai
+fi
+fj
+fo
+ss
+sr
+sq
+sw
+sv
+su
+st
+sk
+si
+sh
+so
+sn
+sm
+sl
+sc
+sa
+sg
+se
+sd
+zea
+wuu
+vmf
+kbd
+lg
+lb
+fit
+la
+ln
+lo
+li
+lv
+lt
+pcd
+yi
+lzz
+ceb
+yo
+kk-kz
+lzh
+qu
+nov
+de-ch
+map-bms
+el
+eo
+en
+ee
+lfn
+mdf
+eu
+et
+zh-hant
+es
+gom
+ru
+rw
+got
+rn
+ro
+dsb
+sma
+be-x-old
+ast
+ase
+lmo
+ltg
+yue
+xh
+de-formal
+koi
+ku-latn
+pnt
+pnb
+udm
+roa-rup
+kbd-cyrl
+dty
+stq
+roa-tara
+dtp
+prg
+ang
+bho
+lbe
+sat
+min
+lij
+kk-arab
+liv
+sei
+kab
+kaa
+egl
+hif-latn
+tyv
+awa
+en-ca
+ka
+kg
+ckb
+kk
+kj
+ki
+ko
+kn
+km
+kl
+ks
+kr
+ext
+kw
+kv
+mrj
+ky
+szl
+cdo
+pt-br
+hrx
+xmf
+jam
+uz-cyrl
+ksh
+de
+da
+dz
+hif
+aeb-arab
+dv
+hil
+bar
+eml
+kk-cyrl
+aeb
+ban
+shi
+crh
+shn
+arq
+ses
+ary
+arz
+rmy
+ks-arab
+arc
+bto
+arn
+en-gb
+lus
+mus
+luz
+zh-cn
+wa
+wo
+jv
+tum
+tg-latn
+vro
+ja
+ilo
+tly
+pdt
+pdc
+aa
+ch
+co
+simple
+ca
+ce
+cy
+sah
+cs
+cr
+cv
+cu
+frc
+ps
+pt
+zh-tw
+ady-cyrl
+bbc
+frr
+pa
+xal
+pi
+pl
+nrm
+gom-deva
+zh-my
+ike-latn
+gan
+bat-smg
+gag
+zh-mo
+an
+fur
+sli
+anp
+ug-arab
+pih
+ve
+crh-latn
+is
+iu
+it
+vo
+ii
+ik
+io
+avk
+rif
+ie
+id
+nds-nl
+pap
+ug-latn
+pag
+pam
+nl-informal
+aeb-latn
+kiu
+mzn
+niu
+gsw
+jbo
+nb
+tcy
+hak
+ady
+rgn
+haw
+tt-cyrl
+bpy
+mhr
+olo
+kk-tr
+tt-latn
+ike-cans
+hsb
+be
+bg
+myv
+ba
+bm
+bn
+bo
+bh
+bi
+rue
+br
+bs
+rup
+ruq
+om
+ace
+oc
+bgn
+krj
+kri
+be-tarask
+de-at
+krc
+nds
+os
+or
+nso
+bjn
+zh-min-nan
+frp
+loz
+war
+hz
+hy
+hr
+ht
+hu
+hi
+ho
+jut
+sdc
+ha
+sdh
+bug
+he
+kk-latn
+uz
+azb
+ur
+uk
+ug
+crh-cyrl
+ab
+af
+ak
+am
+ks-deva
+khw
+as
+ar
+inh
+tpi
+av
+ay
+az
+nl
+nn
+no
+na
+nah
+nan
+ne
+ng
+ny
+nap
+grc
+shi-tfng
+nv
+ku
+zh-yue
+zh-classical
+bcl
+bcc
+cps
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475160149376
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:42:26.348166
+
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475160298882
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:44:57.064703
+
+aln
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475160401655
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:46:39.858082
+
+aln
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475160427442
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:47:05.583724
+
+aln
+gv
+
+
+APP_NAME: TEMPLATE
+APP_ID: local-1475160482690
+MASTER_URL: local[*]
+UTC: 2016-09-29 14:47:59.786183
+
+aln
+gv
+Ta Barack Hussein Obama II (ruggit 4 Luanistyn, 1961) ny 44-oo Eaghtyrane ny Steatyn Unnaneysit. Haink eh ayns shelloo oik er 20 Jerrey Geuree ny bleeaney 2009. Roish haink er dy ve ny eaghtyrane, v'eh ny Hannadeyr Sosharagh er son Illinois.
+
+
+gu
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20160929145044-0018
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-09-29 14:51:03.782350
+
+aln
+gv
+Ta Barack Hussein Obama II (ruggit 4 Luanistyn, 1961) ny 44-oo Eaghtyrane ny Steatyn Unnaneysit. Haink eh ayns shelloo oik er 20 Jerrey Geuree ny bleeaney 2009. Roish haink er dy ve ny eaghtyrane, v'eh ny Hannadeyr Sosharagh er son Illinois.
+
+
+gu
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20160929145200-0019
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-09-29 14:52:19.735590
+
+aln
+gv
+Ta Barack Hussein Obama II (ruggit 4 Luanistyn, 1961) ny 44-oo Eaghtyrane ny Steatyn Unnaneysit. Haink eh ayns shelloo oik er 20 Jerrey Geuree ny bleeaney 2009. Roish haink er dy ve ny eaghtyrane, v'eh ny Hannadeyr Sosharagh er son Illinois.
+
+
+gu
+
+
+APP_NAME: TEMPLATE
+APP_ID: app-20160929200353-0014
+MASTER_URL: spark://143.106.73.61:7077
+UTC: 2016-09-29 20:04:10.358014
+
+TEMPLATE
+
+
+APP_NAME: TEMPLATE
+APP_ID: app-20160929200558-0015
+MASTER_URL: spark://143.106.73.61:7077
+UTC: 2016-09-29 20:06:16.209258
+
+TEMPLATE
+
+
+APP_NAME: TEMPLATE
+APP_ID: app-20160929200616-0020
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-09-29 20:06:35.196337
+
+TEMPLATE
+
+
+APP_NAME: TEMPLATE
+APP_ID: app-20160929200933-0021
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-09-29 20:09:53.456192
+
+TEMPLATE
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475714954454
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:49:12.480306
+
+aln
+gv
+Raad ny Foillan
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715077229
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:51:15.031625
+
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715125693
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:52:04.224363
+
+en
+Deli Hermun
+Brickellia incana
+Sint-Lambertuskerk (Maastricht)
+Peter Grassberger
+Rahul Kanwal
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715162690
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:52:40.782956
+
+en
+<built-in method title of unicode object at 0x1044eb270>
+<built-in method title of unicode object at 0x1044eb9f0>
+<built-in method title of unicode object at 0x1045000c0>
+<built-in method title of unicode object at 0x1043481b0>
+<built-in method title of unicode object at 0x104348930>
+<built-in method title of unicode object at 0x104348a50>
+<built-in method title of unicode object at 0x104348b10>
+<built-in method title of unicode object at 0x104348bd0>
+<built-in method title of unicode object at 0x104348c90>
+<built-in method title of unicode object at 0x104348d50>
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715286947
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:54:43.697714
+
+en
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715329809
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:55:27.227307
+
+en
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715577846
+MASTER_URL: local[*]
+UTC: 2016-10-06 00:59:36.221241
+
+en
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715752839
+MASTER_URL: local[*]
+UTC: 2016-10-06 01:02:31.225255
+
+en
+Ideological realism was an artistic movement in 19th century Russia, including groups like the Peredvizhniki.
+Ideological realism is also a name for a literary current that reached its zenith in the 19th century. It was very much like realism, but ideological realism tried to deliver an ideological message to the reader, in addition to staying close to reality. Famous writers that can be described as ideological realists include Charles Dickens and Dutch poet Jacob Cats.
+
+
+== References ==
+Nebria coreica is a species of ground beetle in the Nebriinae subfamily that can be found in North Korea and Russia.
+
+
+== References ==
+[u'Sir Thomas Lloyd, 1st Baronet', u'Thomas Lloyd (lexicographer)', u'Thomas Lloyd (lieutenant governor)', u'Thomas F. Lloyd', u'Thomas Lloyd (garrison commander)', u'Thomas Lloyd (stenographer)', u'Thomas Lloyd (pornographic actor)', u'Thomas Richard Lloyd', u'Thomas Lloyd (bishop)', u'Thomas Lloyd (rugby player)', u'Thomas Lloyd (MP)', u'Thomas Edward Lloyd', u'Tom Lloyd', u'Tom Lloyd (Australia)']
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715929265
+MASTER_URL: local[*]
+UTC: 2016-10-06 01:05:27.321579
+
+en
+The House in Nightmare Park
+The House in Nightmare Park (known as "Crazy House" in the U.S.) is a 1973 British comedy horror film directed by Peter Sykes and starring Frankie Howerd, Ray Milland and Hugh Burden. It was one of a number of British comedy films which parodied the successful British horror genre, closely associated with the Hammer Horror films. Its plot follows that of a traditional "Old Dark House" story.
+
+
+== Plot ==
+Struggling actor Foster Twelvetrees (Frankie Howerd) is invited to a large country home by Stewart Henderson (Ray Milland) to perform a dramatic reading for his family. Outwardly, Stewart is complimentary and enthusiastic, but his more sinister intentions were made clear when earlier he secretly sliced a poster of Twelvetrees. Whilst they chat, Stewart's sister Jessica (Rosalie Crutchley) and their Indian servant Patel (John Bennett) begin searching through Twelvetrees' luggage. Twelvetrees nevertheless responds with an unintentional wit and bumbling characteristic throughout the rest of the film.
+After they send him to bed, Stewart and Jessica talk cryptically about not being able to find something in his luggage and concluding he must have it elsewhere. Later on Twelvetrees is chided by Stewart for nearly walking in on a restricted room – Stewart explains his ill brother Victor is in there. Then during his sleep Twelvetrees is woken to a commotion downstairs: Stewart's other brother Reggie (Hugh Burden) and his daughter Verity (Elizabeth MacLennan) have arrived with Reggie demanding his regular allowance from Victor. Spying on the proceedings Twelvetrees spots Stewart going elsewhere to see his mother. The next day, after being introduced to a snake house underground, Twelvetrees secretly goes upstairs to see Stewart's mother: though kept behind a locked door she initially seems extremely polite and explains her family's history of theatrics in India. Suddenly, she tries to kill Twelvetrees with a knife but he is saved by Patel – the servant explains her presence there is secret lest she be taken away. Though very unnerved, Stewart persuades Twelvetrees to stay to perform that evening.
+Before doing so another brother arrives; Ernest (Kenneth Griffith) and his wife Aggie arrive to demand his regular allowance – both he and Reggie have found their cheques from Victor have been bouncing. Suspicious that Stewart is trying to change Victor's will to his favour, Reggie and Ernest resolve to stay and make sure that doesn't happen. In the meantime, Verity persuades Twelvetrees to check up on Victor, and to their shock discover the bed in his room is filled by a dummy. Confronted, Stewart tells Reggie and Ernest that Victor is dead and reveals another secret: Twelvetrees is in fact Victor's secret son and that he is entitled to everything in Victor's will. Plus, Stewart is convinced Twelvetrees unknowingly has a clue to where a batch of diamonds are hidden on the estate. Ernest and Aggie, after their own search, are convinced they've found the clue is a framed misquoted motto and plan to kill Twelvetrees with poison: Stewart foils the plan and works out they know whatever the clue must be. Later that evening during a Henderson family performance Ernest is killed with a stab to the back. Petrified, Twelvetrees makes a hasty exit only to be pursued by Verity: she convinces him to come back after she reveals the true identity of his father and his place in his will: he is in line to take over his money, the house and its estates. Whilst confronting his uncles, Foster is told by Verity about the diamonds, their secret location and the fact he might be in possession of a clue to their location. Whilst he goes for the police Foster gets lost in the forest and eventually finds Patel: he tells him to go in his place. However, having taken some of his clothes, Patel is mistaken by the Henderson mother and she kills him as he walks through the woods.
+Going back to the house, Foster meets up with Verity again to find Jessica – in possession of his framed motto – and Agnes dead by the snakehouse. Foster explains he received the motto in the post and Verity notices it's inaccurate. Explaining that it came with a birth certificate, Verity concludes the clue must be in his name. Foster goes to get it – learning his real name is Nigel Anthony Julian Amadeus Henderson – but comes back to Verity on the floor. Reggie walks in immediately and says she's dead. Foster, left alone, works out the clue: his initials form naja – a genus of snake, and he finds a package in the snake house. Confronted then by Stewart – Reggie having been killed in the interim – Foster refuses to hand it over and a violent chase ensues, but Foster traps Stewart with his mother. Downstairs, Foster is confronted by an alive Verity pointing a gun at him. She demands the diamonds and he unwraps the package, throwing the covering paper into the fire. However, the document inside reveals the covering paper was actually the map to the diamonds hidden in the estate, by the time they realize the map is already burned away. The film ends with Stewart, Verity and the Henderson mother being taken away in a police cart, whilst a camera shot moves away from Foster beginning to dig in the large grounds outside the house to find the diamonds.
+
+
+== Cast ==
+Frankie Howerd – Foster Twelvetrees
+Ray Milland – Stewart Henderson
+Hugh Burden – Reggie Henderson
+Kenneth Griffith – Ernest Henderson
+John Bennett – Patel
+Rosalie Crutchley – Jessica Henderson
+Ruth Dunning – Agnes Henderson
+Elizabeth MacLennan – Verity Henderson
+Aimée Delamain – Mother
+Peter Munt – Cabbie
+
+
+== Critical reception ==
+Time Out wrote, "Sykes directs in his best high romantic style (the opening is brilliant) and Howerd restrains himself sufficiently; but though some gags work, towards half time the strain begins to tell and it all falls apart."
+British Horror Films called the film, "Very funny, very Hammer...and very, very good. Who says there's only ever been one successful Hammer-alike horror comedy ever produced? Carry On Screaming, you've got competition…"
+
+
+== References ==
+
+
+== Bibliography ==
+Hutchings, Peter. British Film Makers: Terence Fisher. Manchester University Press, 2001.
+
+
+== External links ==
+The House in Nightmare Park at the Internet Movie Database
+The House in Nightmare Park at British Comedy Guide
+Mike Markuson
+Mike Markuson (born June 15, 1961) is an American football coach. Most recently he was the offensive line coach for the Wisconsin Badgers, from January to September 9, 2012.
+
+
+== Education ==
+Markuson is a 1979 graduate of Farmington (Minnesota) High School. He earned his B.A. in psychology at Hamline University in 1983, and earned his M.S. in athletic administration at South Dakota State in 1986. Markuson also played football for Hamline University from 1979-1982 at the defensive tackle position.
+
+
+== Coaching Experience ==
+As an assistant coach, Markuson has coached on both the high school and college levels of football. He coached for his alma mater, Farmington High in 1983 as the defensive line coach. Overall, Markuson has coached at nine different colleges spread across the different division levels of NCAA football.
+In 1984, Markuson returned to South Dakota State where he coached the defensive line until 1985. Moving back to Hamline University in 1986, he spent a season there coaching the defensive line. In 1987, Oklahoma State offered him a position as a graduate assistant coach which he accepted. After two seasons at Oklahoma State, Markuson had the opportunity to become a graduate assistant at one of college football's traditional powerhouses, Notre Dame. In his season with the Fighting Irish, he was able to coach in the coveted Orange Bowl in January 1990. After spending three seasons as a graduate assistant coach, Austin Peay State University in Tennessee offered him the position of coaching the offensive line. He has coached the offensive line units ever since his move to Austin Peay. He spent only one season there, moving on to Alabama A&M in 1991. In 1992, he was granted the reigns as the offensive coordinator at Alabama A&M to add to his responsibilities of offensive line coach.
+Markuson moved on to Murray State University under newly hired head coach Houston Nutt in 1993. After suffering two consecutive losing seasons at Murray State in 1993 and 1994, Nutt and Markuson turned the program around. From 1995-96, the Racers posted a combined record of 22-3. In 1997, Nutt was hired as the head coach at Boise State University. He decided to bring Markuson and Bobby Allen, the inside linebackers coach and defensive coordinator for Murray State, with him to Boise, Idaho. The Broncos finished the season with a 5-6 record. Nutt was hired as the head coach of the Arkansas Razorbacks in December 1997 and brought Markuson in to coach the offensive line. In 2003, he was also named the team's running game coordinator. Markuson coached in six post-season bowl games at Arkansas, including a Florida Citrus Bowl (1999) and two Cotton Bowl Classics (2000, 2002). Under Markuson's offensive line coaching, the Razorbacks led the Southeastern Conference in rushing offense for nearly five consecutive seasons. Markuson coached the Arkansas offensive line from 1998 until his departure to Ole Miss for the 2008 season. Markuson continued in his roles as offensive line coach and running game coordinator at Ole Miss until 2010 when he was promoted to co-offensive coordinator.
+Markuson debuted as the offensive line coach for the Wisconsin Badgers in January 2012, but was fired on September 9, 2012 after just two games, including a 10-7 loss to the Oregon State Beavers.
+UTSA head coach Larry Coker announced Monday February 23, 2015 that he has hired Mike Markuson as an assistant coach. He will tutor the program’s offensive linemen and his appointment is effective March 2, 2015.
+
+
+== Personal life ==
+Markuson has two children, Joy Noelle and Elliot Bryan, with his wife, Dottie (née Bryant).
+
+
+== References ==
+
+
+== Sources ==
+Arkansas Razorback Football Media Guide 2006
+John Clopton
+John Clopton (February 7, 1756 – September 11, 1816) was a United States Representative from Virginia.
+
+
+== Biography ==
+John Clopton was born in St. Peter's Parish, near Tunstall, New Kent County, Virginia on 7 February 1756. His father was William Clopton (1721–1796) and his mother was Elizabeth Dorrell Ford (1727–1785). He graduated from the College of Philadelphia (now the University of Pennsylvania) in 1776. He studied law, was admitted to the bar and practiced. He served as first lieutenant and as captain in the Virginia militia during the American Revolutionary War, and was wounded at the Battle of Brandywine.
+He married Sarah Bacon on May 15, 1784, daughter of Edmund Bacon and Elizabeth Edloe. They had several children: Izard (1785–?), Maria L. Adelaide (1788–?), John Bacon (1789–1860), William Edmund (1791–1848), and Sarah Elizabeth (1804–1843).
+Clopton was a member of the Virginia House of Delegates from 1789 to 1791, and was elected as a Democratic-Republican to the Fourth and Fifth Congresses, serving from March 4, 1795 to March 3, 1799. He was a member of the Virginia Privy Council from 1799 to 1801, and was elected to the Seventh and to the seven succeeding Congresses; during the Tenth Congress he was chairman of the Committee on Revisal and Unfinished Business. He served from March 4, 1801 until his death near Tunstall on September 11, 1816; interment was in the family burying ground on his plantation. Future President John Tyler was elected to fill the vacancy caused by Clopton's death.
+
+
+== References ==
+United States Congress. "John Clopton (id: C000531)". Biographical Directory of the United States Congress.
+Eupithecia cohabitans
+Eupithecia cohabitans is a moth in the family Geometridae. It is found in Madagascar.
+
+
+== References ==
+Promontory Mountains
+The Promontory Mountains are a range in Box Elder County, Utah. The range is oriented north-south and has a length of about 35 miles (56 km). The southern portion forms a cape extending 20 miles (32 km) south into the Great Salt Lake. The First Transcontinental Railroad was completed with the Golden Spike just north of the range at Promontory Summit in the Utah Territory. Today, trains cross the Promontory Point at the southern tip of the range via the Lucin Cutoff railroad causeway across the lake.
+
+
+== Geology ==
+The Promontory Mountains are a block fault range typical of the Basin and Range Province. The west side of the range is bounded by the East Great Salt Lake normal fault which passes under the lake along the west side of Antelope Island and on to the south shore of the lake to the west side of the Oquirrh Mountains where it continues on strike as the Oquirrh Fault. The East Antelope Island fault runs from the east side of Antelope Island to the north beneath the lake to the east side of the Promentaries where it continues as the East Promontory Mountains fault zone. These two fault systems parallel the larger Wasatch Fault which runs to the east of Great Salt Lake. The faults are normal faults which dip to the west.
+
+
+== History ==
+The Promontory Mountains of 35 mi (56 km) were bypassed by the First Transcontinental Railroad (north) and the replacement 1904 Lucin Cutoff trestle through Promontory Point (south), which was replaced by a 1959 causeway.
+
+
+== References ==
+Chavo
+[u'El Chavo del Ocho', u'Chavo Guerrero Sr.', u'Chavo Guerrero Jr.', u'Chavo Pederast', u'El Chavo (disambiguation)']
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475715987722
+MASTER_URL: local[*]
+UTC: 2016-10-06 01:06:25.728858
+
+en
+Miguel Capuccini
+Hasanabad, Marvast
+2012–13 NCRHA Junior College Division season
+Cairneyhill
+Captain James Newman House
+Médouneu Airport
+Kani Rash, Oshnavieh
+Federico Sardella
+Magnolia splendens
+C23
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475716059753
+MASTER_URL: local[*]
+UTC: 2016-10-06 01:07:38.415847
+
+en
+[u'Orders, decorations, and medals of Austria-Hungary', u'Budugumpa, Koppal', u'Premios Bartolom\xe9 Hidalgo', u'Ian Gow', u'Felli', u'Vaccine (disambiguation)', u'Jacaleapa', u'Richard C. McCarty', u'Treatise on the Power and Primacy of the Pope', u'Salomon Group']
+Orders, decorations, and medals of Austria-Hungary
+Budugumpa, Koppal
+Premios Bartolomé Hidalgo
+Ian Gow
+Felli
+Vaccine (disambiguation)
+Jacaleapa
+Richard C. McCarty
+Treatise on the Power and Primacy of the Pope
+Salomon Group
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475736342884
+MASTER_URL: local[*]
+UTC: 2016-10-06 06:45:39.735335
+
+en
+[u'Class invariant', u'Teatro Diego Fabbri in Forl\xec', u'Middle-earth in film', u'Rund Bay', u'Crucianella', u'Hisingerfjellet', u'Coward (surname)', u'Pinus krempfii', u'Hyde Park Congregational Church (Los Angeles)', u'Dominique Villars']
+<WikipediaPage 'Class invariant'>
+<WikipediaPage 'Teatro Diego Fabbri in Forlì'>
+<WikipediaPage 'Middle-earth in film'>
+<WikipediaPage 'Rund Bay'>
+<WikipediaPage 'Crucianella'>
+<WikipediaPage 'Hisingerfjellet'>
+<WikipediaPage 'Coward (surname)'>
+<WikipediaPage 'Pinus krempfii'>
+<WikipediaPage 'Hyde Park Congregational Church (Los Angeles)'>
+<WikipediaPage 'Dominique Villars'>
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475736441148
+MASTER_URL: local[*]
+UTC: 2016-10-06 06:47:18.683080
+
+en
+[u'Mount Fedallah', u'Manhua\xe7u', u'Music School of Rhodes (Greece)', u'Ishkashim Important Bird Area', u'Ad extirpanda', u'Tom Peters', u'Kadov (\u017d\u010f\xe1r nad S\xe1zavou District)', u'Serbian dances', u'The Big Arvo', u'Pseudosciaphila duplex']
+Mount Fedallah (65°43′S 62°52′W) is a mountain approximately 1,250 metres (4,100 ft) high, situated east of the Pip Cliffs, on the north side of Flask Glacier, in the south-east foothills of Madrid Dome in Aristotle Mountains, eastern Graham Land Antarctica. It was named by the UK Antarctic Place-Names Committee in 1987, after a crewman of the Pequod in association with other names from Moby-Dick in this area.
+
+
+== References ==
+
+ This article incorporates public domain material from the United States Geological Survey document "Fedallah, Mount" (content from the Geographic Names Information System).
+Manhuaçu is a municipality in Eastern Minas Gerais state, in Brazil. Its population was 86,844 (2015) and its area is 628 km². Located 260 km from the state capital of Belo Horizonte, it is near the important road junction of BR 262 (Belo Horizonte-Vitória) and BR 116 (Rio-Bahia). The total area of the municipality is 629 km² and it lies at an elevation of 635 m in the foothills of the Serra da Chabata or Caparaó, which form the boundary between the states of Minas Gerais and Espírito Santo.
+Altitude
+maximum: 1,760 m at Serra Pedra Dourada
+minimum: 561 m at Foz do Rio São Mateu
+Temperature
+annual average: 22.7 °C
+average annual maximum: 27.5 °C
+average annual minimum: 16.6 °C
+annual rainfall average: 1,827 mm
+The main rivers are the Ribeirão do Manhuaçuzinho and the Manhuaçu River, which are tributaries of the Doce River.
+Distances: 270 km to Belo Horizonte/MG and 230 km to Vitória/ES.
+
+
+== Economy ==
+The economy of the city is based on the production and processing of mountain coffee. It is the center of commercialization of coffee of the Zona da Mata, and there are offices and warehouses of the main exporting and processing companies of the country. There are storage facilities for about one million sacks of coffee. The region harvests about 1.5 million sacks of coffee a year
+There are three schools of higher education, Faculdade do Futuro [2], Doctum [3] and Facig - Faculdade de Ciências Gerenciais de Manhuaçu [4].
+
+
+== Parque Nacional do Caparaó ==
+The Caparaó National Park is a national park administered by the Brazilian Institute of Environment and Renewable Natural Resources (IBAMA) and is located approximately 60 km southeast of Manhuaçu on the boundary dividing the states of Minas Gerais and Espírito Santo. The entrance to the park is at Alto Caparaó. The area of the park is 318 square kilometers.
+It was created in 1961 by President Jânio Quadros. It contains the third highest peak in the country, the Pico da Bandeira (2,891 m). In 1859 Emperor Dom Pedro II had ordered that a flag of the Empire be placed on the highest peak of the Serra do Caparaó. It is believed that the name Pico da Bandeira is due to this fact. The mountains of the Caparaó chain have landscapes of great beauty with numerous waterfalls and caverns. There are also other important peaks like Pico do Cristal (2769.7 m) and Pico do Calçado (2.766 m).
+
+
+== References ==
+
+
+== External links ==
+Portal Manhuaçu (in Portuguese)
+A site about Manhuaçu (in Portuguese)
+Lessons of the High Caparaó (in English)
+The Music School of Rhodes (Μουσικό Σχολείο Ρόδου) is a school located on Rhodes Island in the Koskinou region of Greece, which specialises in teaching music. The current head teacher of the school is Theodora Tsimpouri. It opened in September 1993 with only 28 pupils and 10 teachers. At the end of summer 2013, the school was recorded to have a roll of 231 pupils and 68 teachers. The school is made up of 12 sections of which 8 are for pupils in the first 3 years of high school and 4 for the use of pupils in the last 3 years of high school. Although the school mainly specialises in music, other subjects are also taught to pupils such as maths, physics, literature and languages. The school is open from Monday to Friday between the hours of 08:00 to 3:15.
+
+
+== History ==
+The opening of the music school came about due to the demand for a music school from the Music School's Arts Committee (a department of the Education Ministry). When the school was founded in 1993, it had only 10 teachers: P. Giannakitsa (Philologist/Literature Teacher), T. Tsimpouri (Piano), E. xatzinikolaou (Piano), K. Loukas (Mathematician), B. Kattavenakis (Musician), H. Anastasiadis (Lyra), S. Perselis (Lyra), G. Paragios (Lyra), E. Statha (Piano), I. Dermitzakis (Violin) and N. Zervos (HeadMaster).
+The announcement of the creation of the school received lots of negative reactions from the public. Many people felt uninterested or suspicious about the idea. Others were doubtful at the idea of a school which was so different from any other schools, specialising in one particular subject.
+
+
+=== First Year ===
+During the school's first year of operation, the school had problems regarding the housing of students. For the first few days of operation, the housing for the school was situated in Rodini park. However it was later transferred to the 6th Lykeio of Rhodes (also known as Ikokiriki). Conflict between the Music School of Rhodes and the admission of the 6th school of Rhodes caused the Music school to transfer to an area called 'Therme'.
+
+
+=== Second Year ===
+After the problems with the housing and conflict with the 6th school of Rhodes, the music school was eventually moving slowly back on track. During the second year of operation, the school building was divided into 3 sections for smoother running of teaching. In this case, there are 2 sections of the building that was provided to the first year pupils and the last section was allocated to the use of second years, since there were 46 1st year pupils and 25 2nd year pupils at the time. However, the housing problem was still one of the major issues to the school, owing to several numbers of insufficient classrooms, the teachers have spent most of their time teaching at the kitchen or in the yard if the condition allowed. In addition to the smooth running, more teachers have joined the School: M.Pavlidou, M.Sotiraki (Philologist/Literature Teacher), H.Xatzinikolaou (Physicist), G.Stintixaki (German Language), E.Volonaki (Piano), A.Santoriniou (Piano), E.Ioannidou, P.Kouvaras, G.Kotis, S.Xatzinikolaou, Xatzipapas (Theatre), T.Athanasopoulos (Art).
+
+
+=== Third Year ===
+As the time moved onto the third year of operation, the school has found the way to temporarily solve its housing problem. As a result, the location of the school was transferred from 'Therme' to “Gold Court” at Afantou area. As the school was into a more stable situation and the buildings was in good condition, the 4 sections of the building were allocated as 1 section for the 1st years, 2 sections for 2nd years (as there are more pupils) and finally 1 section for the 3rd years. As a success achievement of the year, the school won the 2nd award at the 1st PanHellenic music competition for their Byzantine Choir and 1st place in both piano and European Choir.
+
+
+== Recent ==
+The overall structure of the high school has been completed with the addition of 4th, 5th and 6th years, the school has gained support from EU funds for their new building at 'Asgourou' (which is their current location as of 2015). As a massive improvement at the end of the year the school has participated in the 2nd PanHellenic music competition and has taken four 1st places in different areas.
+
+
+== Events ==
+The music school regularly hosts events and festivals for the public to attend. The events that are held vary from operas to concerts. Other events are culturally themed such as the "Dancing and Singing in Asia minor" event. Another event which featured at the Music School of Rhodes Island was the "Music Stand" event which took viewers into Alexandros Papadiamantis' word of romantic short stories. The Music School of Rhodes also hold a music festival every year in which its students get to take part in the event.
+
+
+=== Music Festival ===
+The music school, along with the Department of the Dodecanese of the South Aegean Region and the Municipal Culture Sports Organisation of the Municipality of Rhodes (DOPAR), is set to be hosting a festival showcasing the Creation of Contemporary Music. The main purpose of the event is to allow young musicians to express themselves and show their talents by providing them with the best possible opportunity for expression. All that is required to allow students to perform at the festival is that they have passed the music audition before the festival begins. This festival is the 3rd of its kind following the success of the 2nd festival which was organised by the Region of Southern Aegean, Department of Culture, and took place in 2011.
+The 2nd Festival of Contemporary Music Creation lasted 2 days and consisted of 25 bands, consisting of the Dodecanese, performing over the 2 days. The 1st festival, lasting only 1 day, brought 1000 spectators and the 2nd festival brought more than 1500 spectators over the 2 days it ran for. The reason as to why the music school itself was chosen to hold all 3 of the festivals is due to the fact that its location combines historical monuments and natural beauty providing the perfect backdrop to the festivals.
+The 3rd festival of the Creation of Contemporary Music is divided into 3 phases. The 1st phase involves the students, who wish for their bands to participate, submitting applications for performing in the festival. The 2nd phase is where the bands are invited to the hearing in the Music School's auditorium where they perform in front of The Arts Committee of the festival. The committee then evaluate each band determining whether or not they reach the artistic criteria required to move on to the 3rd phase. The 3rd phase involves all of the groups who the Arts Committee determined suitable being given their performance slots. The Arts Committee use the 3 phases to achieve their goal in ensuring the hard working bands are able to go on to perform at the festival and showcase their talents.
+
+
+== Other projects ==
+
+The schools computer department produced a 3D game in 2012 called Rollit! which is available online to play. Students Kalogerakis Alexander, Kapsimalis Panagiotis and Ntitsef Theodore from class C worked together to create the 3D game using Unity3d javascript. The game requires the players to make their way through a maze, collecting flags and then reaching the levels exit before time runs out.
+
+
+== References ==
+
+
+== External links ==
+Official Music School of Rhodes website
+Good News from the Music School of Rhodes
+Records-ups at the Music School of Rhodes
+Game created by students of the Music School of Rhodes
+The Ishkashim Important Bird Area, also spelt Ishkoshim, is a 1136 km2 tract of land in south-western Gorno-Badakhshan Autonomous Province in eastern Tajikistan.
+
+
+== Description ==
+The site lies some 120 km south of the provincial capital of Khorugh, and 52 km from the district centre of Ishkashim, in the Shohdara Range of the southern Pamir Mountains. It encompasses a part of the southern slopes of the Shohdaras, the upper Vakhan valley, and the floodplain of the Panj River 10 km downstream from the confluence of the Pamir and Vahandara Rivers. There the Panj is braided, forming water meadows, pebbly shoals and sandy islands covered with tugay thickets.
+
+
+== Birds ==
+The site has been identified by BirdLife International as an Important Bird Area (IBA) because it supports significant numbers of the populations of various bird species, either as residents, or as breeding or passage migrants. These include Himalayan snowcocks, ferruginous ducks, saker falcons, Pallas's fish-eagles, cinereous vultures, ibisbills, European rollers, yellow-billed choughs, Hume's larks, wallcreepers, white-winged redstarts, white-winged snowfinches, rufous-streaked accentors, water pipits, fire-fronted serins, plain mountain-finches and crimson-winged finches.
+
+
+== References ==
+Ad extirpanda (named for its Latin incipit) was a papal bull promulgated on Wednesday, May 15, 1252 by Pope Innocent IV which authorized in limited and defined circumstances the use of torture by the Inquisition for eliciting confessions from heretics.
+
+
+== Content ==
+The bull was issued in the wake of the murder of the papal inquisitor of Lombardy, St. Peter of Verona, who was killed by a conspiracy of Cathar sympathizers on 6 April 1252. The bull argued that as heretics are "murderers of souls as well as robbers of God’s sacraments and of the Christian faith ...", they are "to be coerced—as are thieves and bandits—into confessing their errors and accusing others, although one must stop short of danger to life or limb."  The following parameters were placed on the use of torture:
+that it did not cause loss of life or limb (citra membri diminutionem et mortis periculum)
+that it was used only once
+that the Inquisitor deemed the evidence against the accused to be virtually certain.
+The bull conceded to the State a portion of the property to be confiscated from convicted heretics. The State in return assumed the burden of carrying out the penalty. The relevant portion of the bull read: "When those adjudged guilty of heresy have been given up to the civil power by the bishop or his representative, or the Inquisition, the podestà or chief magistrate of the city shall take them at once, and shall, within five days at the most, execute the laws made against them."
+
+
+== References ==
+
+
+== External links ==
+Ad Extirpanda, English translation
+Thomas J. "Tom" Peters (born November 7, 1942) is an American writer on business management practices, best known for In Search of Excellence (co-authored with Robert H. Waterman, Jr).
+
+
+== Life and Education ==
+Peters was born in Baltimore, Maryland. He went to Severn School a private, preparatory high school, graduating in 1960. Peters then attended Cornell University, receiving a bachelor's degree in civil engineering in 1964, and a master's degree in 1966.
+He returned to academia in 1970 to study business at Stanford Business School receiving an M.B.A. followed by a PhD in Organization Behavior at the Stanford business school in 1977. The title of his dissertation was "Patterns of Winning and Losing: Effects on Approach and Avoidance by Friends and Enemies." Karl Weick credited Peters' dissertation with giving him the idea for his 1984 article: "Small wins: Redefining the scale of social problems." 
+While at Stanford, Peters was influenced by Jim G. March, Herbert Simon (both at Stanford), and Karl Weick (at the University of Michigan). Later, he noted that he was influenced by Douglas McGregor and Einar Thorsrud.
+In 2004, he also received an honorary doctorate from the State University of Management in Moscow.
+
+
+== Career ==
+From 1966 to 1970, he served in the United States Navy, making two deployments to Vietnam as a Navy Seabee, then later working in the Pentagon. From 1973 to 1974, he worked in the White House as a senior drug-abuse advisor, during the Nixon administration. Peters has acknowledged the influence of military strategist Colonel John Boyd on his later writing.
+From 1974 to 1981, Peters worked as a management consultant at McKinsey & Company, becoming a partner and Organization Effectiveness practice leader in 1979. In 1981, he left McKinsey to become an independent consultant.
+In 1990, Peters was referred to in a British Department of Trade and Industry (DTI) publication as one of the world's Quality Gurus.
+In 1995, the New York Times referred to Peters as one of the top three business gurus in the highest demand as a speaker along with Daniel Burrus and Roger Blackwell.
+
+
+=== In Search of Excellence ===
+The publication of the popular business book In Search of Excellence in 1982 marked a turning point in Peters' career.
+Peters states that directly after graduating with a PhD from Stanford in 1977, and returning to McKinsey, the new managing director, Ron Daniel, handed him a "fascinating assignment." Motivated by the new ideas coming from Bruce Henderson's Boston Consulting Group, Daniel noted that businesses often failed to effectively implement new strategies, so Peters "was asked to look at 'organization effectiveness' and 'implementation issues' in an inconsequential offshoot project nested in McKinsey's rather offbeat San Francisco office."
+In Search of Excellence was published in 1982. It became a bestseller, gaining exposure in the United States at a national level when a series of television specials based on the book and hosted by Peters appeared on PBS. The primary ideas espoused solving business problems with as little business-process overhead as possible, and empowering decision-makers at multiple levels of a company.
+The December 2001 issue of Fast Company quoted Peters admitting that he had falsified the underlying data for In Search of Excellence. He is quoted as saying, " This is pretty small beer, but for what it's worth, okay, I confess: We faked the data. A lot of people suggested it at the time."
+In an odd turn of events, however, he later insisted that this was untrue, and that he was the victim of an "aggressive headline."
+
+
+== Later Work ==
+In later books Peters has encouraged personal responsibility in response to the "New Economy".
+Peters's latest book is The Little Big Things, released in March 2010.
+Peters currently lives in West Tinmouth, Vermont with his wife Susan Sargent, and continues to write and speak about personal and business empowerment and problem-solving methodologies. His namesake company is based in the UK.
+
+
+== Works ==
+1982 – In Search of Excellence (co-written with Robert H. Waterman, Jr.)
+1985 – A Passion for Excellence (co-written with Nancy Austin)
+1987 – Thriving on Chaos
+1992 – Liberation Management
+1994 – The Tom Peters Seminar: Crazy Times Call for Crazy Organizations
+1994 – The Pursuit of WOW!
+1997 – The Circle of Innovation: You Can't Shrink Your Way to Greatness
+1999 – The Brand You 50: Or: Fifty Ways to Transform Yourself from an "Employee" into a Brand That Shouts Distinction, Commitment, and Passion! (Reinventing Work Series) ISBN 978-0375407727
+2003 – Re-imagine! Business Excellence in a Disruptive Age
+2005 – Talent
+2005 – Leadership
+2005 – Design
+2005 – Trends (co-written with Martha Barletta)
+2010 – The Little Big Things: 163 Ways to Pursue Excellence
+
+
+== References ==
+
+
+== Further reading ==
+Speechtek biography
+Stewart Crainer: Corporate Man to Corporate Skunk: The Tom Peters Phenomenon, Oxford, 1997
+Winfried W. Weber: Innovation durch Injunktion, Goettingen, 2005 [1]
+Tom Peters: The Bestselling Prophet of the Management Revolution (part of a 4-book series of business biographies on Peters, Bill Gates, Peter Drucker, and Warren Buffett)
+The Brand Called You FastCompany magazine, 1997.
+
+
+== External links ==
+tompeters – official site
+Kadov is a village and municipality (obec) in Žďár nad Sázavou District in the Vysočina Region of the Czech Republic.
+The municipality covers an area of 5.37 square kilometres (2.07 sq mi), and has a population of 117 (as at 28 August 2006).
+Kadov lies approximately 13 kilometres (8 mi) north-east of Žďár nad Sázavou, 44 km (27 mi) north-east of Jihlava, and 129 km (80 mi) south-east of Prague.
+
+
+== References ==
+Czech Statistical Office: Municipalities of Žďár nad Sázavou District
+Dancing tradition in Serbia is represented by various styles of dances in the country. As with other aspects of Serbian culture, different forms of dances originated in different parts of Serbia, developed according to the local traditions and also acquired elements from other parts of the country.
+Serbian folk dancing, kolo ("circle [dance]"), includes many varieties. The most popular dances are Užičko kolo, and Moravac, while other popular dances include Kokonješte, Žikino kolo and Vranjanka.
+
+
+== Dances ==
+
+Užičko kolo (from Užice)
+Moravac (from Great Morava)
+Kokonješte
+Žikino kolo
+Vranjanka (from Vranje)
+
+
+== See also ==
+Croatian dances
+
+
+== References ==
+
+
+== Sources ==
+Vladimir Mutavdžić (2005). Narodni plesovi Srbije: praktikum pedagoške prakse. Studentski kulturni centar. ISBN 978-86-7757-115-3. 
+Desa Đorđević (1988). Narodne igre Šumadije i Pomoravlja. Kulturno-prosvjetni sabor. ISBN 978-86-80825-62-5. 
+Ljubica S. Janković; Danica S. Janković (1951). Narodne igre. Štamparija D. Gregorića. 
+Tihomir R. Đorđević (1907). Srpske narodne igre. 9–10. Srpska kraljevska akademija. 
+Bogdanka Đurić; Radomir Janković; Vasilije Pavlović (1991). Srpske narodne igre. Prosveta-Koprodukcija. 
+Dragoslav Džadžević (2006). Narodne igre severoistočne Srbije. Kulturno-prosvetna zajednica. 
+Margarita Debeljak; Milica Ilijin (1953). Mađarske narodne igre iz Vojvodine. Bratstvo Jedinstvo. 
+Branka Koturović; Aleksandar Marinković (1973). Narodne igre Jugoslavije: metodika, tehnika, ritam. Interplas. 
+Vladimir Kirin (1965) [1954]. Narodni plesovi Jugoslavije. Naklada Color.
+The Big Arvo (originally titled The Big Breakfast) is an Australian television series that was broadcast on the Seven Network from 1999 until 2005. It starred four hosts, who hosted the show in a large model bus. They had segments such as "cool job" and "dare" to amuse younger viewers and to teach viewers who had outgrown Play School. The show appeared in K-Zone magazine to celebrate 500 episodes. It had begun in a morning timeslot under the name of The Big Breakfast, before moving to the afternoon to make way for AMV: All Music Video and Sunrise.
+
+
+== Hosts ==
+ Original   Replacement 
+Notes
+There is a 7-month gap between Curtis Fernandez being replaced by Luke Jacobz as The Big Breakfast went off air during this time before being resurrected as The Big Arvo.
+There is a 5-month gap between Anna Choy being replaced by James Tobin as The Big Arvo was off air during this time, replaced by Girl TV.
+James Tobin was credited as "Jesse Tobin" for all episodes.
+Ben and Jenny were the only two hosts to remain with the show for its entire run.
+
+
+== Cartoons ==
+Here is a list of cartoons that were shown as part of The Big Breakfast:
+Mummies Alive!
+Pancho and Rancho
+Johnny Bravo
+Tom and Jerry
+The Flintstones
+Sherlock Holmes in the 22nd Century
+Sonic Underground
+Reboot
+Ed, Edd n Eddy
+The Bots Master
+Dexter's Laboratory
+The Legend of Prince Valiant
+Life with Louie
+The Powerpuff Girls
+I am Weasel
+Gargoyles
+Gargoyles: The Goliath Chronicles
+S Club 7 in Miami
+Sailor Moon
+Cow and Chicken
+The New Adventures of Flash Gordon
+The Mask
+
+
+== See also ==
+
+List of Australian television series
+
+
+== External links ==
+The Big Arvo at the Internet Movie Database
+Pseudosciaphila duplex, the aspen leaftier, poplar leafroller or spotted aspen leafroller, is a moth of the Tortricidae family. It is found in North America from Quebec and New England to northern California and British Columbia.
+
+The wingspan is 20-25 mm. Adults are on wing from June to August.
+The larvae feed on the leaves of poplar, birch and willow.
+
+
+== External links ==
+Bug Guide
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475736708136
+MASTER_URL: local[*]
+UTC: 2016-10-06 06:51:45.612335
+
+en
+[u'Product Recall', u'Frost Spur', u'Abd Allah ibn Hijazi al-Sharqawi', u'Ku\u0159imsk\xe1 Nov\xe1 Ves', u'Opel Rally Team', u'Pe\u0107', u'The Bachelors and 16 Great Songs', u'Poplar River (Lost River)', u'Arthur Burks', u'Kalman Kahana']
+[u'A.A.R.M.', u'AOL TV', u'A Benihana Christmas', u'After Hours (The Office)', u"Andy's Ancestry", u"Andy's Play", u'Andy Bernard', u'Angela Kinsey', u'Angela Martin', u'Angry Andy', u'Baby Shower', u'Back from Vacation', u'Basketball (The Office)', u'Battlestar Galactica', u'Battlestar Galactica (2004 TV series)', u'Beach Games', u'Ben Franklin (The Office)', u'Better Business Bureau', u'Blackmail (webisodes)', u'Blood Drive (The Office)', u'Body Language (The Office)', u'Booze Cruise (The Office)', u'Boys and Girls (The Office)', u'Branch Closing', u'Branch Wars', u'Brent Forrester', u'Brian Baumgartner', u'Bridget Jones', u'Broke (The Office)', u'Business Ethics (The Office)', u'Business School (The Office)', u'Business Trip', u'CNN', u'Cafe Disco', u'Casino Night', u'Casual Friday (The Office)', u'Chair Model', u'China (The Office)', u'Christening (The Office)', u'Christmas Party (The Office)', u'Christmas Wishes (The Office)', u'Clark Green', u'Classy Christmas', u'Cocktails (The Office)', u'Cold open', u'Comedy', u'Company Picnic', u'Conflict Resolution (The Office)', u'Costume Contest', u'Counseling (The Office)', u'Couples Discount', u'Creed Bratton', u'Creed Bratton (character)', u'Crime Aid', u'Customer Loyalty (The Office)', u'Customer Survey', u'Daily Variety', u'Darryl Philbin', u'David Wallace (The Office)', u'Did I Stutter?', u'Dinner Party (The Office)', u'Diversity Day (The Office)', u'Diwali (The Office)', u'Doomsday (The Office)', u'Double Date (The Office)', u'Dream Team (The Office)', u'Drift Away', u'Drug Testing (The Office)', u'Dunder Mifflin', u'Dunder Mifflin Infinity', u"Dwight's Speech", u'Dwight Christmas', u'Dwight K. Schrute, (Acting) Manager', u'Dwight Schrute', u'Ed Helms', u'Email Surveillance', u'Employee Transfer', u'Entertainment Weekly', u'Erin Hannon', u'Facebook', u'Finale (The Office)', u'Frame Toby', u'Frameup', u'Free Family Portrait Studio', u'Fun Run', u'Fundraiser (The Office)', u'Gabe Lewis', u'Garage Sale (The Office)', u'Garden Party (The Office)', u'Gay Witch Hunt', u'Gene Stupnitsky', u'Get the Girl', u'Gettysburg (The Office)', u'Golden Ticket (The Office)', u'Goodbye, Michael', u'Goodbye, Toby', u'Gossip (The Office)', u'Greg Daniels', u'Grief Counseling (The Office)', u'Halloween (The Office)', u'Happy Hour (The Office)', u'Health Care (The Office)', u'Heavy Competition', u'Here Comes Treble', u'Holly Flax', u'Hot Girl (The Office)', u'IGN', u'IMDb', u'ITunes Store', u'Initiation (The Office)', u'Jan Levenson', u'Jan Levinson', u'Jenna Fischer', u'Jim Halpert', u'Job Fair (The Office)', u'John Krasinski', u'Junior Salesman', u'Jury Duty (The Office)', u'Justin Spitzer', u'Kate Flannery', u'Kelly Kapoor', u"Kevin's Loan", u'Kevin Malone', u'Koi Pond (The Office)', u'Last Day in Florida', u'Launch Party', u'Lecture Circuit', u'Lee Eisenberg', u'Lice (The Office)', u'Lisa Darr', u'List of The Office (U.S. TV series) cast members', u'List of The Office (U.S. TV series) characters', u'List of The Office (U.S. TV series) episodes', u'List of awards and nominations received by The Office (U.S. TV series)', u"Livin' the Dream", u'Local Ad', u'Los Angeles Times', u'Lotto (The Office)', u'Mafia (The Office)', u'Meredith Palmer', u"Michael's Birthday", u"Michael's Last Dundies", u'Michael Scott (The Office)', u'Michael Scott Paper Company', u'Mindy Kaling', u'Money (The Office)', u'Moroccan Christmas', u'Moving On (The Office)', u'Mrs. California', u'Murder (The Office)', u'NBC', u'Nellie Bertram', u'Nepotism (The Office)', u'New Boss', u'New Guys', u'New Leads', u'Newsweek', u'Niagara (The Office)', u'Nielsen Media Research', u'Night Out (The Office)', u'Office Olympics', u'Oscar Martinez (The Office)', u'PDA (The Office)', u'Paley Center for Media', u'Paleyfest', u"Pam's Replacement", u'Pam Beesly', u'Paper Airplane (The Office)', u'Performance Review', u'Pete Miller', u"Phyllis' Wedding", u'Phyllis Vance', u'Pilot (The Office)', u'Pool Party (The Office)', u'Prince Family Paper', u'Product recall', u'Promos (The Office)', u'Quality assurance', u'Rainn Wilson', u'Randall Einhorn', u'Rashida Jones', u'Robert California', u"Roy's Wedding", u'Roy Anderson (The Office)', u'Ryan Howard (The Office)', u'Sabre (The Office)', u'Safety Training', u'Scape goat', u"Scott's Tots", u'Scranton, Pennsylvania', u'Search Committee', u'Secret Santa (The Office)', u"Secretary's Day (The Office)", u'Sex Ed (The Office)', u'Sexual Harassment (The Office)', u'Shareholder Meeting', u'Special Project', u'Spooked (The Office)', u"St. Patrick's Day (The Office)", u'Stairmageddon', u'Stanley Hudson', u'Steve Carell', u'Steve Irwin', u'Stress Relief', u'Subtle Sexuality', u'Suit Warehouse', u'Survivor: Fiji', u'Survivor (U.S. TV series)', u'Survivor Man', u'Sweeps week', u'TV Guide', u'Take Your Daughter to Work Day (The Office)', u'Tallahassee (The Office)', u'Television Without Pity', u'Test the Store', u'The Alliance (The Office)', u'The Banker (The Office)', u'The Boat (The Office)', u'The Carpet', u'The Chump', u'The Client (The Office)', u'The Convention (The Office)', u'The Convict', u'The Coup (The Office)', u'The Cover-Up (The Office)', u'The Delivery (The Office)', u'The Deposition (The Office)', u'The Duel (The Office)', u'The Dundies', u'The Farm (The Office)', u'The Fight (The Office)', u'The Fire (The Office)', u'The Incentive', u'The Injury', u'The Inner Circle (The Office)', u'The Job (The Office)', u'The Lion Sleeps Tonight', u'The List (The Office)', u'The Lover (The Office)', u'The Manager and the Salesman', u'The Meeting (The Office)', u'The Merger (The Office)', u'The Negotiation', u'The Office', u'The Office: The Accountants', u'The Office (U.S. TV series)', u'The Office (U.S. season 1)', u'The Office (U.S. season 2)', u'The Office (U.S. season 3)', u'The Office (U.S. season 4)', u'The Office (U.S. season 5)', u'The Office (U.S. season 6)', u'The Office (U.S. season 7)', u'The Office (U.S. season 8)', u'The Office (U.S. season 9)', u'The Office (video game)', u'The Outburst', u'The Podcast (webisodes)', u'The Promotion (The Office)', u'The Return (The Office)', u'The Search (The Office)', u'The Secret (The Office)', u'The Seminar', u'The Sting (The Office)', u'The Surplus', u'The Target (The Office)', u'The Whale (The Office)', u'Threat Level Midnight', u'Toby Flenderson', u'Todd Packer', u'Todd Packer (The Office)', u'Training Day (The Office)', u'Traveling Salesmen', u'Trivia (The Office)', u'Turf War (The Office)', u'Two Weeks (The Office)', u'Ultimatum (The Office)', u'Universal Studios Home Entertainment', u"Valentine's Day (The Office)", u'Vandalism (The Office)', u'Viewing Party', u'WUPHF.com', u'Watermark', u'Weight Loss (The Office)', u'Welcome Party', u'Whistleblower (The Office)', u"Women's Appreciation", u'Work Bus']
+[u'Advisory Committee on Antarctic Names', u'Alley Spur', u'Charles Frost (administrator)', u'Copyright status of work by the U.S. government', u'Dufek Massif', u'Filchner-Ronne Ice Shelf', u'Geographic Names Information System', u'Geographic coordinate system', u'Lewis Spur', u'National Science Foundation', u'Pensacola Mountains', u'Queen Elizabeth Land', u'U.S. Navy', u'United States Geological Survey']
+[u'Aswan', u'Egypt', u'Khalwati', u'Sufi']
+[u'Babice nad Svitavou', u'Babice u Rosic', u'Biskoupky (Brno-Country District)', u'Bla\u017eovice', u'Blu\u010dina', u'Bora\u010d, Czech Republic', u'Borovn\xedk', u'Brani\u0161ovice', u'Bran\xed\u0161kov', u'Brat\u010dice (Brno-Country District)', u'Brno', u'Brno-Country District', u'Brumov', u'Bukovice (Brno-Country District)', u'B\xedlovice nad Svitavou', u'B\u011ble\u010d (Brno-Country District)', u'B\u0159ezina (former Blansko District)', u'B\u0159ezina (former Ti\u0161nov District)', u'Chud\u010dice', u'Coat of arms of Ku\u0159imsk\xe1 Nov\xe1 Ves', u'Cvr\u010dovice (Brno-Country District)', u'Czech Republic', u'Debl\xedn', u'Districts of the Czech Republic', u'Doln\xed Kounice', u'Doln\xed Lou\u010dky', u'Doma\u0161ov', u'Doubravn\xedk', u'Drahon\xedn', u'Dr\xe1sov (Brno-Country District)', u'Flag of Ku\u0159imsk\xe1 Nov\xe1 Ves', u'Geographic coordinate system', u'Hajany (Brno-Country District)', u'Heroltice', u'Hlubok\xe9 Dvory', u'Hl\xedna', u'Holasice', u'Horn\xed Lou\u010dky', u'Host\u011bnice', u'Hrad\u010dany (Brno-Country District)', u'Hru\u0161ovany u Brna', u'Hvozdec (Brno-Country District)', u'Ivan\u010dice', u'Iva\u0148 (Brno-Country District)', u'Jav\u016frek', u'Jina\u010dovice', u'Ji\u0159\xedkovice', u'Kaly', u'Kanice (Brno-Country District)', u'Katov (Brno-Country District)', u'Ketkovice', u'Kobylnice (Brno-Country District)', u'Kovalovice', u'Kratochvilka', u'Kupa\u0159ovice', u'Ku\u0159im', u'Ku\u0159imsk\xe9 Jest\u0159ab\xed', u'K\u0159i\u017e\xednkov', u'La\u017e\xe1nky (Brno-Country District)', u'Ledce (Brno-Country District)', u'Lelekovice', u'Lesn\xed Hlubok\xe9', u'Litostrov', u'Lod\u011bnice (Brno-Country District)', u'Lomnice (Brno-Country District)', u'Lomni\u010dka (Brno-Country District)', u'Lubn\xe9', u'Lukovany', u'Male\u0161ovice', u'Malhostovice', u'Mar\u0161ov', u'Medlov (Brno-Country District)', u'Mod\u0159ice', u'Mokr\xe1-Hor\xe1kov', u'Moravany (Brno-Country District)', u'Moravsk\xe9 Br\xe1nice', u'Moravsk\xe9 Kn\xednice', u'Moutnice', u'M\u011bl\u010dany', u'M\u011bn\xedn', u'M\u011bstys', u'Nebovidy (Brno-Country District)', u'Nedv\u011bdice', u'Nelepe\u010d-\u017dern\u016fvka', u'Neslovice', u'Nesva\u010dilka', u'Nosislav', u'Nov\xe1 Ves (Brno-Country District)', u'Nov\xe9 Br\xe1nice', u'N\xedhov', u'N\u011bm\u010di\u010dky (Brno-Country District)', u'Obec', u'Ochoz u Brna', u'Ochoz u Ti\u0161nova', u'Odrovice', u'Ol\u0161\xed (Brno-Country District)', u'Omice', u'Opatovice (Brno-Country District)', u'Osiky', u'Oslavany', u'Ostopovice', u'Ostrova\u010dice', u'Otmarov', u'O\u0159echov (Brno-Country District)', u'Pasohl\xe1vky', u'Pern\u0161tejnsk\xe9 Jest\u0159ab\xed', u'Podol\xed (Brno-Country District)', u'Poho\u0159elice (Brno-Country District)', u'Pon\u011btovice', u'Popovice (Brno-Country District)', u'Pop\u016fvky (Brno-Country District)', u'Pozo\u0159ice', u'Prace, Czech Republic', u'Prague', u'Pravlov', u'Pr\u0161tice', u'P\u0159edkl\xe1\u0161te\u0159\xed', u'P\u0159ibice', u'P\u0159ibyslavice (Brno-Country District)', u'P\u0159\xedbram na Morav\u011b', u'P\u0159\xedsnotice', u'Radostice', u'Rajhrad', u'Rajhradice', u'Ra\u0161ov', u'Rebe\u0161ovice', u'Regions of the Czech Republic', u'Rohozec (Brno-Country District)', u'Rojet\xedn', u'Rosice', u'Rozdrojovice', u'Rudka (Brno-Country District)', u'Senorady', u'Sentice', u'Sil\u016fvky', u'Sivice', u'Skali\u010dka (Brno-Country District)', u'Skryje (Brno-Country District)', u'Sobotovice', u'Sokolnice', u'South Moravian Region', u'Stanovi\u0161t\u011b', u'Strha\u0159e', u'St\u0159elice (Brno-Country District)', u'Svatoslav (Brno-Country District)', u'Synalov', u'Syrovice', u'Telnice (Brno-Country District)', u'Tet\u010dice', u'Ti\u0161nov', u'Ti\u0161novsk\xe1 Nov\xe1 Ves', u'Trbou\u0161any', u'Troskotovice', u'Troubsko', u'Tvaro\u017en\xe1 (Brno-Country District)', u'T\u011b\u0161any', u'Unkovice', u'Un\xedn (Brno-Country District)', u'Velatice', u'Veversk\xe1 B\xedt\xfd\u0161ka', u'Veversk\xe9 Kn\xednice', u'Village', u'Vini\u010dn\xe9 \u0160umice', u'Vlasatice', u'Vohan\u010dice', u'Vojkovice (Brno-Country District)', u'Vranov (Brno-Country District)', u'Vranovice (Brno-Country District)', u'Vratisl\xe1vka', u'Vysok\xe9 Popovice', u'V\u0161echovice (Brno-Country District)', u'Zak\u0159any', u'Zast\xe1vka', u'Zbraslav (Brno-Country District)', u'Zb\xfd\u0161ov', u'Zho\u0159 (Brno-Country District)', u'Z\xe1lesn\xe1 Zho\u0159', u'\xdajezd u Brna', u'\xdajezd u Rosic', u'\xdajezd u Ti\u0161nova', u'\xdasu\u0161\xed', u'\u010ceb\xedn', u'\u010cernv\xedr', u'\u010cesk\xe1', u'\u010cu\u010dice', u'\u0158ikon\xedn', u'\u0158\xedcmanice', u'\u0158\xed\u010dany (Brno-Country District)', u'\u0158\xed\u010dky (Brno-Country District)', u'\u0160erkovice', u'\u0160lapanice', u'\u0160t\u011bp\xe1novice (Brno-Country District)', u'\u0160umice (Brno-Country District)', u'\u017dab\u010dice', u'\u017dat\u010dany', u'\u017delezn\xe9', u'\u017dele\u0161ice', u'\u017didlochovice', u'\u017d\u010f\xe1rec']
+[u'1982 Acropolis Rally', u'1982 Monte Carlo Rally', u'1982 Rally Finland', u'1982 Rally New Zealand', u'1982 Rally of Brazil', u"1982 Rallye C\xf4te d'Ivoire", u'1982 Rallye Sanremo', u'1982 Rallye de Portugal', u'1982 Safari Rally', u'1982 Swedish Rally', u'1982 Tour de Corse', u'1982 Wales Rally GB', u'1982 World Rally Championship season', u'1983 Acropolis Rally', u'1983 Monte Carlo Rally', u'1983 Rally Argentina', u'1983 Rally Finland', u'1983 Rally GB', u'1983 Rally Portugal', u'1983 Rally of Brazil', u"1983 Rallye C\xf4te d'Ivoire", u'1983 Rallye Sanremo', u'1983 Safari Rally', u'1983 Swedish Rally', u'1983 Tour de Corse', u'1983 World Rally Championship season', u'Ari Vatanen', u'Bj\xf6rn Johansson (rally driver)', u'Finland', u'France', u'Germany', u'Guy Fr\xe9quelin', u'Henri Toivonen', u'Jimmy McRae', u'Jochi Kleint', u"List of World Rally Championship Constructors' Champions", u"List of World Rally Championship Drivers' Champions", u'Opel Ascona', u'Opel Ascona 400', u'Opel Kadett GSi', u'Opel Kadett GT/E', u'Opel Manta 400', u'Opel Mantta 400', u'Rauno Aaltonen', u'Rothmans International', u'Sweden', u'United Kingdom', u'Walter R\xf6hrl', u'World Rally Championship']
+[u'2004 unrest in Kosovo', u'2008 Kosovo declaration of independence', u'Administrative divisions of Kosovo', u'Agim \xc7avdarbasha', u'Agim \xc7eku', u'Albania', u'Albania under Italy', u'Albanian Declaration of Independence', u'Albanian language', u'Albanians in Kosovo', u'Anibar International Animation Festival', u'Archbishop', u'Arsenije IV Jovanovi\u0107 \u0160akabenta', u'Arsenije Sremac', u'Ashkali', u'Austria-Hungary', u'Autonomous Province of Kosovo and Metohija', u'Autonomous Province of Kosovo and Metohija (1946-1974)', u'Bajrakli Mosque, Pe\u0107', u'Bazaar of Pe\u0107', u'Bedri bej Ipeku', u'Belgrade\u2013Pristina negotiations', u'Belo Polje (Pe\u0107)', u'Berane', u'Bogoljub Kari\u0107', u'Bosniaks', u'Brussels Agreement (2013)', u'Central European Summer Time', u'Central European Time', u'Cities in Kosovo', u'Cumans', u'David Albahari', u'Daylight saving time', u'Dejan Stojanovi\u0107', u'Demographics of Pe\u0107', u'De\xe7an', u'De\u010dani', u'Dinamo Zagreb', u'District of Ferizaj', u'District of Gjakova', u'District of Gjilan', u'District of Mitrovica', u'District of Peja', u'District of Pe\u0107', u'District of Pristina', u'District of Prizren', u'Districts of Kosovo', u'Draga\u0161', u'Education in Pe\u0107', u'Egyptians (Balkans)', u'Elez Han', u'Events and festivals in Pe\u0107', u'Fadil Muriqi', u'Faruk Begolli', u'Fatos Be\u0107iraj', u"Federal People's Republic of Yugoslavia", u'Ferizaj', u'First Balkan War', u'Geographic coordinate system', u'Gezim Kasapolli', u'Gjakova', u'Gjilan', u'Glogovac', u'Gora\u017edevac', u'Gra\u010danica, Kosovo', u'Greek language', u'Guri i Kuq', u'Gusinje', u'Hajla', u'Haxhi Zeka', u'History of Medieval Serbia', u'Hvosno', u'International Ski Federation', u'International Standard Book Number', u'International recognition of Kosovo', u'Ipek (disambiguation)', u'Ippon', u'Islam', u'Istok', u'Italian language', u'Joanikije II', u'Junik', u'KB Peja', u'KB Penza', u'KF Besa', u'KF Besa Pej\xeb', u'KF Prishtina', u'KH Besa Famiglia', u'KV BESA', u'Kamenica, Kosovo', u'Ka\xe7anik', u'Kingdom of Montenegro', u'Kingdom of Yugoslavia', u'Klina', u'Klokot', u'Kosovo', u'Kosovo Force', u'Kosovo Polje', u'Kosovo Serb enclaves', u'Kosovo War', u'Lake Plav', u'Latin language', u'League of Peja', u'League of Prizren', u'Leposavi\u0107', u'Lipljan', u'List of Albanian actors', u'List of cities in Kosovo', u'List of cities in Kosovo by population', u'List of heads of the Serbian Orthodox Church', u'List of twin towns and sister cities in Kosovo', u'Ljevo\u0161a', u'Maja e Hekurave', u'Maja e Vjelakut', u'Majlinda Kelmendi', u'Mali\u0161evo', u'Mamu\u0161a', u'Medieval Monuments in Kosovo', u'Medieval Serbian architecture', u'Mehmet Akif Ersoy', u'Member states of the United Nations', u'Metropolitan area', u'Milutin \u0160o\u0161ki\u0107', u'Miodrag Krivokapi\u0107 (actor)', u'Mitrovica, Kosovo', u'Montenegro national football team', u'Mosque', u'Municipalities of Kosovo', u'Municipium', u'Nil\xfcfer, Bursa', u'North Mitrovica', u'Novo Brdo', u'Obili\u0107', u'Orahovac', u'Organization for Security and Co-operation in Europe', u'Ottoman Empire', u'Ottoman Turkish language', u'Ottoman architecture', u'Parte\u0161', u'Patriarchal Monastery of Pe\u0107', u'Patriarchate of Pe\u0107 (monastery)', u'Pavle Strugar', u'Pec (disambiguation)', u'Pecs (disambiguation)', u"People's Republic of Serbia", u'Pe\u0107 Bistrica', u'Pe\u0107 Hamam', u'Pe\u0107ka Banja', u'Pe\u0107ka Bistrica', u'Podujevo', u'Precipitation', u'Pristina', u'Prizren', u'Prokletije', u'Ptolemy', u'Qadaa', u'Qerim Begolli', u'Rahman Morina', u'Ranilug', u'Relative humidity', u'Republic of Ragusa', u'Riza Sapunxhiu', u'Roma in Kosovo', u'Rugova Canyon', u'Rugova Mountains', u'Russia', u'Rustemi Kreshnik', u'Saint Arsenije I Sremac', u'Saint Sava', u'Salih Gjuka', u'Sanjak of \u0130pek', u'Sanjakbey', u'School for visually impaired in Pe\u0107', u'Serbia', u"Serbia's reaction to the 2008 Kosovo declaration of independence", u'Serbian Orthodox Church', u'Serbian Patriarchate', u'Serbian Patriarchate of Pe\u0107', u'Serbian language', u'Serbian people', u'Serbs in Kosovo', u'Sislej Xhafa', u'Skenderaj', u'Stefan Du\u0161an', u'Stefan Nemanja', u'Stefan Nemanji\u0107', u'Sunshine duration', u'Suva Reka', u'Tae Kwon Do Club Peja', u'Telephone numbering plan', u'Time zone', u'Tobolsk', u'Tromedja (mountain peak)', u'Turkey', u'Turkish people', u'Turks in Kosovo', u'Twin towns and sister cities', u'UNESCO', u'UTC+1', u'UTC+2', u'United Nations', u'Vehicle registration plate', u'Vehicle registration plates of Kosovo', u'Visoki De\u010dani monastery', u'Vitina', u'Vitomirica', u'Vladimir Bo\u017eovi\u0107', u'Vu\u010ditrn', u'Wayback Machine', u'White Drin', u'World Heritage Site', u'World War I', u'World War II', u'Xhevdet Muriqi', u'Yugoslav architecture', u'Zeta Banovina', u'Zhuj Selmani', u'Zubin Potok', u'Zve\u010dan', u'\u0110eravica', u'\u0110or\u0111e Bo\u017eovi\u0107', u'\u0130pek', u'\u0130stikl\xe2l Mar\u015f\u0131', u'\u0160timlje', u'\u0160trpce', u'\u017di\u010da', u'\u017dupa']
+[u"(I'll Be With You) In Apple Blossom Time", u'Abner Silver', u'Al Stillman', u'Albert Von Tilzer', u'Album', u'Benny Davis', u'Bobby Darin', u'Charmaine (song)', u'Decca Records', u'Diane (1927 song)', u'Dick Rowe', u'Ern\xf6 Rap\xe9e', u'Ervin Drake', u'Far Away Places', u'George Gershwin', u'Gus Kahn', u'Hello, Dolly! (song)', u"I'll Be With You In Apple Blossom Time", u"I'll Walk with God", u'I Believe (1953 song)', u'In the Chapel in the Moonlight', u'Ira Gershwin', u'Isham Jones', u'Lew Pollack', u'List of Christmas number one albums (UK)', u'Mabel Wayne', u'Music genre', u'Oscar Hammerstein II', u'Ramona (song)', u'Record label', u'Record producer', u'Richard Rodgers', u'The Bachelors', u'The Sound of Silence', u'The Unicorn (song)', u'Tom Glazer', u'Turn Around, Look at Me', u'UK Albums Chart', u'Where the Blue of the Night (Meets the Gold of the Day)', u"You'll Never Walk Alone"]
+[u'Clearwater River (Red Lake River)', u'Geographic coordinate system', u'Hudson Bay', u'Lake Winnipeg', u'List of rivers of Minnesota', u'Lost River (Clearwater River)', u'Mahnomen County, Minnesota', u'Minnesota', u'Nelson River', u'Ojibwe', u'Polk County, Minnesota', u'Populus', u'Red Lake County, Minnesota', u'Red Lake River', u'Red River of the North', u'United States']
+[u'Aberdeen, Maryland', u'Alice Burks', u"Alzheimer's disease", u'Ann Arbor, Michigan', u'Ann Arbor News', u'Arthur J. Burks', u'Atanasoff\u2013Berry Computer', u'Ballistics Research Laboratory', u'Biblioth\xe8que nationale de France', u'Carl Simon (mathematician)', u'Charles Babbage Institute', u'Charles Sanders Peirce', u'Charles Sanders Peirce bibliography', u'Collegeville, Pennsylvania', u'DePauw University', u'Digital object identifier', u'Douglas Hofstadter', u'Duluth, Minnesota', u'EDVAC', u'ENIAC', u'Earl R. Larson', u'Greencastle, Indiana', u'Herman Goldstine', u'Honeywell v. Sperry Rand', u'Human computer', u'IAS machine', u'Institute for Advanced Study', u'Integrated Authority File', u'International Standard Name Identifier', u'J. Presper Eckert', u'John Grist Brainerd', u'John Henry Holland', u'John Mauchly', u'John Vincent Atanasoff', u'John von Neumann', u'LIBRIS', u'Library of Congress Control Number', u'Mantissa (floating point number)', u'Mathematician', u'Mathematics', u'Mathematics Genealogy Project', u'Melanie Mitchell', u'Michael D. Cohen (academic)', u'Michael Savageau', u'Moore School Lectures', u'Moore School of Electrical Engineering', u'National Diet Library', u'National Library of Australia', u'Philadelphia, Pennsylvania', u'Philosophy', u'Physics', u'Princeton, New Jersey', u'Pulitzer Prize', u'Quonset hut', u'Reiko Tanese', u'Rick Riolo', u'Robert Axelrod', u'Robert F. Shaw', u'Sperry Rand', u'Swarthmore College', u'Syst\xe8me universitaire de documentation', u'T. Kite Sharpless', u'The Franklin Institute Awards', u'The New York Times', u'Theory of automata', u'U.S. Army', u'United States', u'University of Michigan', u'University of Pennsylvania', u'Ursinus College', u'Virtual International Authority File', u'W. D. Hamilton', u'Wikisource']
+[u'Agudat Yisrael', u'Aliyah', u'Austria-Hungary', u'Brody', u'David Ben-Gurion', u'Declaration of Independence (Israel)', u'Election threshold', u'Fifth government of Israel', u'Fourth government of Israel', u'Galicia (Central Europe)', u'Hafetz Haim', u'Hapoel HaMizrachi', u'Haredi Judaism', u'Hebrew language', u'Hildesheimer Rabbinical Seminary', u'Humboldt University of Berlin', u'International Standard Name Identifier', u'Israel', u'Israeli legislative election, 1949', u'Israeli legislative election, 1951', u'Israeli legislative election, 1955', u'Israeli legislative election, 1959', u'Israeli legislative election, 1961', u'Israeli legislative election, 1965', u'Israeli legislative election, 1969', u'Israeli legislative election, 1973', u'Israeli legislative election, 1977', u'Israeli legislative election, 1981', u'Kibbutz', u'Knesset', u'Library of Congress Control Number', u'Mandatory Palestine', u'Mizrachi (political party)', u'Philosophy', u'Poalei Agudat Yisrael', u'President', u'Provisional State Council', u'Rabbi', u'Religious Torah Front', u"Sha'arim", u'Sixth government of Israel', u'Supreme Court of Israel', u'Third government of Israel', u'Ukraine', u'United Religious Front', u'University of W\xfcrzburg', u'Virtual International Authority File', u'Yitzhak Kahan']
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475738898629
+MASTER_URL: local[*]
+UTC: 2016-10-06 07:28:15.582736
+
+en
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475739361804
+MASTER_URL: local[*]
+UTC: 2016-10-06 07:35:59.163123
+
+en
