@@ -4,6 +4,8 @@ import requests
 import thread
 import time
 import threading
+import Queue
+import sets
 #***DONT TOUCH HERE
 from pyspark import SparkConf, SparkContext
 from datetime import datetime,tzinfo
@@ -22,89 +24,111 @@ CREATION_TIME = datetime.utcnow()
 #DEFINE APP_NAME
 APP_NAME = "Wiki to File"
 #DEFINE MASTER_URL
-MASTER_URL = LOCAL_URL
+MASTER_URL = TEST_URL
 #DEFINE OVERWRITE_STD
 OVERWRITE_STD=True
 #DEFINE FILE_STDOUT
 FILE_STDOUT = "py_out.txt"
 #DEFINE FILE_STDERR
 FILE_STDERR = "py_err.txt"
-#
-#Extra Code HERE:
+
+
+
+#DEFINE MULTITHREAD
+PAGE_LIMIT = 256
+MULTITHREAD_LIMIT = 8
+FLUSH_IO_BATCH = 32
+PAGE_LIMIT_SEMAPHORE = threading.Semaphore()
+READY_SET = sets.Set()
+ALL_SET = sets.Set()
+SET_LOCK = threading.RLock()
+MAIN_SEMAPHORE = threading.Semaphore()
 
 #Main Code:
 def main(sc):
-    #************************
-    #*   WRITE CODE HERE    *
-    #************************
-    #languages = wikipedia.languages()
-    #for language in languages:
+    languages = {"en","pt","fr"}
+    for language in languages:
+        WIKI_DICT = {}
+        try:
+            MAIN_SEMAPHORE = threading.Semaphore(MULTITHREAD_LIMIT)
+            PAGE_LIMIT_SEMAPHORE = threading.Semaphore(PAGE_LIMIT)
+            wikipedia.set_lang(language)
+            flang=open("wikipedia_"+language+".json","a")
+            randPageNames = wikipedia.random(pages=10)
+            ALL_SET.update(randPageNames)
+            READY_SET.update(ALL_SET)
+            for i in range(1,MULTITHREAD_LIMIT):
+                thread.start_new_thread(getPages,(flang,))
+                pass
+            time.sleep(5)
+            for i in range(1,MULTITHREAD_LIMIT):
+                MAIN_SEMAPHORE.acquire()
+                pass
+        except wikipedia.exceptions.DisambiguationError as e:
+            print >> sys.stderr, e
+        except wikipedia.exceptions.PageError as e:
+            print >> sys.stderr, e
+        except requests.exceptions.ConnectionError as e:
+            print >> sys.stderr, e
+        except wikipedia.exceptions.WikipediaException as e:
+            print >> sys.stderr, e
+        except Exception as e:
+            print >> sys.stderr, e
+        pass
+    return
+
+def getPages(flang):
+    MAIN_SEMAPHORE.acquire()
+    #Creates a local dictionary of the pages acquired and per requests
     wikidict = {}
-    language = "en"
-    print language
-    wikipedia.set_lang(language)
+    i=0
+    #Try to acquire a page
+    while PAGE_LIMIT_SEMAPHORE.acquire(False):
+        try:
+            #Get a request and execute it
+            addPage(wikidict)
+            i+=1
+            if i%FLUSH_IO_BATCH == 0:
+                thread.start_new_thread(flushIO,(wikidict,flang,))
+                wikidict = {}
+        except Exception as e:
+            print >> sys.stderr, e
+    flushIO(wikidict,flang)
+    MAIN_SEMAPHORE.release()
+
+def flushIO(wikidict,flang=sys.stdout):
     try:
-        randPageNames = wikipedia.random(pages=10)
-        addPagesRecursive(randPageNames,wikidict)
-    except wikipedia.exceptions.DisambiguationError as e:
-        print >> sys.stderr, e
-    except wikipedia.exceptions.PageError as e:
-        print >> sys.stderr, e
-    except requests.exceptions.ConnectionError as e:
-        print >> sys.stderr, e
-    except wikipedia.exceptions.WikipediaException as e:
-        print >> sys.stderr, e
+        print >> flang, wikidict
     except Exception as e:
         print >> sys.stderr, e
-    finally:
-        time.sleep(5*PAGE_RECURSIVE_LIMIT)
-        with MULTITHREAD_DICT_LOCK:
-            print >> open("wikipediaTest.txt","w"), wikidict
 
-#DEFINE MULTITHREAD
-PAGE_RECURSIVE_LIMIT = 1
-MULTITHREAD_PAGE = True
-MULTITHREAD_DELAY = 0.5
-MULTITHREAD_DICT_LOCK = threading.RLock()
+def queuePages(pageNames):
+    for pageName in pageNames:
+        with SET_LOCK:
+            if not pageName in ALL_SET:
+                ALL_SET.add(pageName)
+                READY_SET.add(pageName)
+        pass
 
-def addPagesRecursive(pageNames,wikidict={},recursive=PAGE_RECURSIVE_LIMIT):
-    if MULTITHREAD_PAGE:
-        for pageName in pageNames:
-            if not pageName in wikidict:
-                thread.start_new_thread(addPageRecursive,(pageName,wikidict,recursive-1))
-                time.sleep(MULTITHREAD_DELAY)
-            pass
-    else:
-        for pageName in pageNames:
-            if not pageName in wikidict:
-                addPageRecursive(pageName,wikidict,recursive-1)
-            pass
 
-def addPageRecursive(pageName,wikidict={},recursive=PAGE_RECURSIVE_LIMIT):
-    #pageName=pageName.encode('utf-8')
+def addPage(wikidict={},pageName =""):
+    pageName=READY_SET.pop()
     try:
-        print pageName
-        pagedict = {"pageName":pageName}
         page = wikipedia.page(pageName)
-        #pagedict["page"]=page
         links = page.links
-        pagedict["links"]=links
-        with MULTITHREAD_DICT_LOCK:
-            wikidict[pageName]=pagedict
-        if recursive !=0:
-            addPagesRecursive(links,wikidict,recursive-1)
+        pagedict = {"pageName":pageName,"content":page.content,"links":links,"images":page.images}
+        wikidict[pageName]=pagedict
+        queuePages(links)
     except wikipedia.exceptions.DisambiguationError as e:
         #Common Error
-        addPagesRecursive(e.options,wikidict,recursive-1)
+        queuePages(e.options)
     except wikipedia.exceptions.PageError as e:
         print >> sys.stderr, e
     except requests.exceptions.ConnectionError as e:
         print >> sys.stderr, e
     except wikipedia.exceptions.WikipediaException as e:
         print >> sys.stderr, e
-    except Exception as e:
-        print >> sys.stderr, e
-    return
+    return wikidict
 
 #DONT TOUCH HERE
 if __name__ == "__main__":

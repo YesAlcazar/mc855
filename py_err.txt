@@ -2577,3 +2577,171 @@ UTC: 2016-10-06 10:07:45.063596
 
 'ascii' codec can't encode character u'\u014c' in position 5: ordinal not in range(128)
 'ascii' codec can't encode character u'\u2013' in position 4: ordinal not in range(128)
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475784994275
+MASTER_URL: local[*]
+UTC: 2016-10-06 20:16:32.805496
+
+'ascii' codec can't encode character u'\u0161' in position 2: ordinal not in range(128)
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475793259265
+MASTER_URL: local[*]
+UTC: 2016-10-06 22:34:17.732392
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 129, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 45, in main
+    print ALL_SET.add("Jake")
+AttributeError: 'list' object has no attribute 'add'
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475793309627
+MASTER_URL: local[*]
+UTC: 2016-10-06 22:35:08.201214
+
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475796595279
+MASTER_URL: local[*]
+UTC: 2016-10-06 23:29:53.800214
+
+2nd arg must be a tuple
+2nd arg must be a tuple
+2nd arg must be a tuple
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475796686785
+MASTER_URL: local[*]
+UTC: 2016-10-06 23:31:25.325152
+
+2nd arg must be a tuple
+2nd arg must be a tuple
+2nd arg must be a tuple
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475796759069
+MASTER_URL: local[*]
+UTC: 2016-10-06 23:32:37.628928
+
+Unhandled exception in thread started by <function getPages at 0x111636320>
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 97, in getPages
+    addPage(wikidict)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 126, in addPage
+    page = wikipedia.page(pageName)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 276, in page
+    return WikipediaPage(title, redirect=redirect, preload=preload)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 299, in __init__
+    self.__load(redirect=redirect, preload=preload)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 336, in __load
+    request = _wiki_request(query_params)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 742, in _wiki_request
+    return r.json()
+  File "/usr/local/lib/python2.7/site-packages/requests/models.py", line 826, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+Page id "robert phillips" does not match any pages. Try another id!
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 97 of the file /Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+Page id "affaire denis fenetre" does not match any pages. Try another id!
+Page id "anglais bermudes" does not match any pages. Try another id!
+Page id "Í̥" does not match any pages. Try another id!
+Page id "armoiries timbres de france" does not match any pages. Try another id!
+Page id "Ṡ̃" does not match any pages. Try another id!
+Page id "white hereford" does not match any pages. Try another id!
+Page id "marguerite paraná" does not match any pages. Try another id!
+Page id "liste des pièces de collection françaises en euro 2011" does not match any pages. Try another id!
+ERROR:py4j.java_gateway:An error occurred while trying to connect to the Java server (127.0.0.1:50057)
+Traceback (most recent call last):
+  File "/usr/local/Cellar/apache-spark/2.0.0/libexec/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 61] Connection refused
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161011154325-0035
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-11 15:43:49.632860
+
+Unhandled exception in thread started by Unhandled exception in thread started by Unhandled exception in thread started by <function getPages at 0x10f8972a8>
+<function getPages at 0x10f8972a8>
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 91, in getPages
+    MAIN_SEMAPHORE.acquire()
+AttributeError: 'NoneType' object has no attribute 'acquire'<function getPages at 0x10f8972a8>Unhandled exception in thread started by <function getPages at 0x10f8972a8>
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 91, in getPages
+    MAIN_SEMAPHORE.acquire()
+AttributeError: Unhandled exception in thread started by <function getPages at 0x10f8972a8>Traceback (most recent call last):
+
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 91, in getPages
+    MAIN_SEMAPHORE.acquire()
+AttributeError: 'NoneType' object has no attribute 'acquire'Unhandled exception in thread started by <function getPages at 0x10f8972a8>'NoneType' object has no attribute 'acquire'
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 91, in getPages
+    MAIN_SEMAPHORE.acquire()
+AttributeError: 'NoneType' object has no attribute 'acquire'
+
+Unhandled exception in thread started by 
+<function getPages at 0x10f8972a8>
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 91, in getPages
+    MAIN_SEMAPHORE.acquire()
+AttributeError: 'NoneType' object has no attribute 'acquire'
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 91, in getPages
+    MAIN_SEMAPHORE.acquire()
+AttributeError: 
+'NoneType' object has no attribute 'acquire'
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/wikipedia_to_file2.py", line 91, in getPages
+    MAIN_SEMAPHORE.acquire()
+AttributeError: 'NoneType' object has no attribute 'acquire'
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161011154753-0036
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-11 15:48:19.106297
+
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161011154915-0037
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-11 15:49:41.044640
+
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161011154956-0038
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-11 15:50:22.318188
+

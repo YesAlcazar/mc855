@@ -15769,3 +15769,82 @@ Agnes Knochenhauer
 Tom Harrop Sidebottom
 Mrs. Munger's Class
 Ranger APC
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475784994275
+MASTER_URL: local[*]
+UTC: 2016-10-06 20:16:32.805496
+
+en
+ARWEN 37
+Social Movement Studies
+Inspiration of Ellen G. White
+1989 U.S. Figure Skating Championships
+B. E. Taylor Christmas 2
+Georges Kramer
+Frankfort (village), New York
+AtlantaIX
+.338 Lapua Magnum
+Kamila Gasiuk-Pihowicz
+.50 BMG
+Academic journal
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475793259265
+MASTER_URL: local[*]
+UTC: 2016-10-06 22:34:17.732392
+
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475793309627
+MASTER_URL: local[*]
+UTC: 2016-10-06 22:35:08.201214
+
+None
+None
+set(['Bob', 'Jake', 'John', 'Eric'])
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475796595279
+MASTER_URL: local[*]
+UTC: 2016-10-06 23:29:53.800214
+
+
+
+APP_NAME: Wiki to File
+APP_ID: local-1475796686785
+MASTER_URL: local[*]
+UTC: 2016-10-06 23:31:25.325152
+
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161011154325-0035
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-11 15:43:49.632860
+
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161011154753-0036
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-11 15:48:19.106297
+
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161011154915-0037
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-11 15:49:41.044640
+
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161011154956-0038
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-11 15:50:22.318188
+
