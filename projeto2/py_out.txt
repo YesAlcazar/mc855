@@ -1,0 +1,157 @@
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014012838-0022
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:29:04.243823
+
+== fr: 0 Done ==
+== de: 0 Done ==
+== en: 0 Done ==
+== pt: 0 Done ==
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014012936-0023
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:30:01.488222
+
+0
+0
+0
+0
+== fr: 0 Done ==
+00
+
+0
+0
+== de: 0 Done ==
+0
+0
+0
+0
+== en: 0 Done ==
+0
+0
+0
+0
+== pt: 0 Done ==
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014013134-0024
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:31:59.642486
+
+0
+0
+0
+0
+== fr: 0 Done ==
+0
+0
+0
+0
+== de: 0 Done ==
+00
+
+0
+0
+== en: 0 Done ==
+0
+0
+0
+0
+== pt: 0 Done ==
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014013254-0025
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:33:20.120043
+
+0
+ 0
+0
+0
+== fr: 0 Done ==
+0
+0
+0
+0
+== de: 0 Done ==
+0
+ 0
+0
+0
+== en: 0 Done ==
+0
+0
+0
+0
+== pt: 0 Done ==
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014013533-0026
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:35:58.187101
+
+0
+0
+0
+0
+== fr: 0 Done ==
+0
+0
+0
+0
+== de: 0 Done ==
+0
+00
+
+ 0
+== en: 0 Done ==
+0
+0
+0
+0
+== pt: 0 Done ==
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014014553-0027
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:46:18.678472
+
+0
+0
+0
+0
+== fr: 0 Done ==
+0
+0
+0
+0
+== de: 0 Done ==
+0
+0
+0
+0
+== en: 0 Done ==
+0
+0
+0
+0
+== pt: 0 Done ==
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014014752-0028
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:48:18.108778
+
+== fr: 50 Done ==
+== de: 50 Done ==
+== en: 50 Done ==
+== pt: 50 Done ==

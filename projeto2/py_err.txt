@@ -1,0 +1,689 @@
+
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014012838-0022
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:29:04.243823
+
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'close' is not defined
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'close' is not defined
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'close' is not defined
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'my_thread' is not defined
+global name 'close' is not defined
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014012936-0023
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:30:01.488222
+
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+global name 'close' is not defined
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+global name 'close' is not defined
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+global name 'close' is not defined
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+global name 'close' is not defined
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014013134-0024
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:31:59.642486
+
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014013254-0025
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:33:20.120043
+
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014013533-0026
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:35:58.187101
+
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014014553-0027
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:46:18.678472
+
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+unhashable type: 'list'
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014014752-0028
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:48:18.108778
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-9:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-8:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-12:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-11:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-13:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-10:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-17:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-14:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-16:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+Exception in thread Thread-15:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 133, in addPage
+    queuePages(links,allSet,readySet)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 110, in queuePages
+    if (allSet<=PAGE_LIMIT):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 291, in issubset
+    self._binary_sanity_check(other)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sets.py", line 328, in _binary_sanity_check
+    raise TypeError, "Binary operation only permitted between sets"
+TypeError: Binary operation only permitted between sets
+
+
+
+APP_NAME: Wiki to File
+APP_ID: app-20161014015151-0029
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-14 01:52:16.137785
+
+Page id "robert phillips" does not match any pages. Try another id!
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"Salomon" may refer to: 
+Salomon
+arabe
+allemand
+anglais
+breton
+catalan
+français
+hébreu
+persan
+turc
+Salomé
+Salomon
+Salomon de Cordoue
+Salomon
+Salaün Ar Fol
+Salomon
+Salomon ibn Gabirol
+Salomon ben Isaac
+Salomon de Hongrie
+Salomon de Caus
+Soliman le Magnifique
+Sulayman du Maroc
+Salomon Müller
+Salomon Malhangu
+Salomon Reinach
+Souleymane Frangié
+Souleymane Cissé
+Charlotte Salomon
+Johann Peter Salomon
+Bernard Salomon
+François-Joseph Salomon
+François Nicolas de Salomon
+Lysius Salomon
+Samuel-Adam Salomon
+Charles Émile Salomon
+Hector Salomon
+Ernst von Salomon
+Andrée Salomon
+Jean-Jacques Salomon
+Georges Salomon
+Mikael Salomon
+Erich Salomon
+Salaün
+Salomon
+îles Salomon
+îles Salomon
+îles Salomon
+Sidi Slimane
+Ben Slimane
+mer des Salomon
+Pont-Salomon
+plaque de la mer des Salomon
+œnologie
+Sceau de Salomon
+Sceau de Salomon
+Sceau de Salomon (plante)
+Testament de Salomon
+Clavicula Salomonis
+Fondation d'art contemporain Salomon
+Salomon Brothers
+Salomon
+Opération Salomon
+↑
+↑
+↑
+Page id "frederik józef moszyński" does not match any pages. Try another id!
+Page id "stanisław lubomirski marszałek wielkie kolonne" does not match any pages. Try another id!
+Page id "affaire denis fenetre" does not match any pages. Try another id!
+Page id "przedbórz z brzeziny" does not match any pages. Try another id!
+Page id "john mckinlay" does not match any pages. Try another id!
+"Islandais (homonymie)" may refer to: 
+islandais
+islandais
+islandais
+islandais
+Bretagne
+Islande
+Islande
+peuple islandais
+Islande
+Islande
+cheval islandais
+berger islandais
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 138, in addPage
+    print >> sys.stderr, e
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/exceptions.py", line 26, in __str__
+    return self.__unicode__().encode('utf8')
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/exceptions.py", line 42, in __unicode__
+    return u"Page id \"{0}\" does not match any pages. Try another id!".format(self.pageid)
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc5 in position 6: ordinal not in range(128)
+
+Page id "anglais bermudes" does not match any pages. Try another id!
+Page id "louis marie de gonzague" does not match any pages. Try another id!
+Page id "tartu ghonda" does not match any pages. Try another id!
+Page id "l'adoration de la constitution du 3 mai 1791" does not match any pages. Try another id!
+"Haute Pression" may refer to: 
+Nettoyeur haute-pression
+Haute Pression
+Lampe à décharge luminescente sous haute pression
+Système de haute pression
+Cylindres haute pression
+Médecine hyperbare
+Hypertension artérielle
+Page id "union de milenio" does not match any pages. Try another id!
+Page id "courtenay atheris" does not match any pages. Try another id!
+Page id "jan filles marszałek wielki kolonne" does not match any pages. Try another id!
+Page id "haute salon" does not match any pages. Try another id!
+Page id "łukasz opaliński stars" does not match any pages. Try another id!
+Page id "ahmad hasan" does not match any pages. Try another id!
+Page id "anglaise des îles anglo normandes" does not match any pages. Try another id!
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 130, in addPage
+    links = page.links
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 612, in links
+    'pllimit': 'max'
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 413, in __continued_query
+    request = _wiki_request(params)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 737, in _wiki_request
+    r = requests.get(API_URL, params=params, headers=headers)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/adapters.py", line 499, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPConnectionPool(host='fr.wikipedia.org', port=80): Read timed out. (read timeout=None)
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 90, in getPages
+    while addPage(wikidict,allSet,readySet):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 129, in addPage
+    page = wikipedia.page(pageName)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 276, in page
+    return WikipediaPage(title, redirect=redirect, preload=preload)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 299, in __init__
+    self.__load(redirect=redirect, preload=preload)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 336, in __load
+    request = _wiki_request(query_params)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 737, in _wiki_request
+    r = requests.get(API_URL, params=params, headers=headers)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 596, i

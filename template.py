@@ -24,6 +24,8 @@ MASTER_URL = TEST_URL
 FILE_STDOUT = "py_out.txt"
 #DEFINE FILE_STDERR
 FILE_STDERR = "py_err.txt"
+#DEFINE OVERWRITE_STDIO
+OVERWRITE_STDIO=True
 
 #Extra Code HERE:
 
@@ -41,10 +43,12 @@ if __name__ == "__main__":
     conf = SparkConf().setMaster(MASTER_URL).setAppName(APP_NAME)
     sc   = SparkContext(conf=conf)
     # Configure stdout and stderr
-    sys.stderr = open(FILE_STDERR,"a")
-    sys.stdout = open(FILE_STDOUT,"a")
+    if OVERWRITE_STDIO:
+        sys.stderr = open(FILE_STDERR,"a")
+        sys.stdout = open(FILE_STDOUT,"a")
     EXECUTION_ID = "\n\nAPP_NAME: %s\nAPP_ID: %s\nMASTER_URL: %s\nUTC: %s\n\n" % (APP_NAME, sc.applicationId, MASTER_URL, CREATION_TIME)
     sys.stderr.write (EXECUTION_ID)
     sys.stdout.write (EXECUTION_ID)
+    # Execute Main functionality
     main(sc)
 #****END DONT TOUCH HERE
