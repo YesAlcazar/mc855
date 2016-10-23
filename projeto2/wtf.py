@@ -37,17 +37,19 @@ import sets
 import json
 
 #****Put Globals Here
-PAGE_LIMIT = 256
+PAGE_LIMIT = 256-256
 MULTITHREAD_LIMIT = 4
-FLUSH_IO_BATCH = 128
+FLUSH_IO_BATCH = 64
 RANDOM_TIMES = 5
+FULL_WIKI_FILE = False
+PRETTY_LINK_FILE = False
+LANGUAGES = {"en"}#{"en","fr","pt","de"}
 
 #****Write Main Code:
 def main(sc=None):
-    languages = {"en","fr","pt","de"}
     wikipedia.set_rate_limiting(True)
     multiLimitRange = range(MULTITHREAD_LIMIT)
-    for language in languages:
+    for language in LANGUAGES:
         try:
             wikipedia.set_lang(language)
             allSet = sets.Set()
@@ -105,20 +107,25 @@ def getPages(language,allSet,readySet):
     dictsToJson(wikidict,linkdict,language)
 
 IO_LOCK = threading.RLock()
-DTJ_COUNTER = [0]
+DTJ_COUNTER = {}
 def dictsToJson(wikidict,linkdict,language):
-    currCounter = 0
     with IO_LOCK:
-        DTJ_COUNTER[0] +=1
+        if DTJ_COUNTER.has_key(language):
+            DTJ_COUNTER[language] +=1
+        else:
+            DTJ_COUNTER[language] = 0
         currCounter = DTJ_COUNTER[0]
     dictToJson(wikidict,"wiki",language,currCounter)
-    dictToJson(linkdict,"link",language,currCounter)
+    dictToJson(linkdict,"link",language,currCounter,PRETTY_LINK_FILE)
 
-def dictToJson(dict,fileID,language="",uniqueID=0):
+def dictToJson(dict,fileID,language="",uniqueID=0,prettyFile=True):
     try:
         #data\wiki_en_20161021_120000_000001.json
-        fjson = open ("data\\%s_%s_%s_%06d.json" % (fileID, language, CREATION_TIME.strftime("%Y%m%d_%H%M%S") , uniqueID), "w")
-        json.dump(dict,fjson, sort_keys=True,indent=4)
+        fjson = open ("data/%s_%s_%s_%06d.json" % (fileID, language, CREATION_TIME.strftime("%Y%m%d_%H%M%S") , uniqueID), "w")
+        if prettyFile:
+            json.dump(dict, fjson, sort_keys=True, indent=4)
+        else:
+            json.dump(dict, fjson)
         fjson.close()
     except Exception as e:
         print >> sys.stderr, e
@@ -148,7 +155,10 @@ def addPage(wikidict,linkdict,allSet,readySet):
     try:
         page = wikipedia.page(pageName)
         links = page.links
-        pagedict = {"pageName":pageName,"content":page.content,"links":links,"images":page.images,"categories":page.categories}
+        if FULL_WIKI_FILE:
+            pagedict = {"pageName":pageName,"content":page.content,"links":links,"images":page.images,"categories":page.categories}
+        else:
+            pagedict = {"pageName":pageName,"content":page.content,"images":page.images,"categories":page.categories}
         wikidict[pageName]=pagedict
         linkdict[pageName]=links
         queuePages(links,allSet,readySet)

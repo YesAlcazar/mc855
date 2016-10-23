@@ -1,0 +1,1268 @@
+
+
+APP_NAME: WikitoFile Local
+APP_ID: app-20161022045735-0003
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-22 04:58:04.960717
+
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"kemal" may refer to: 
+Kemal (name)
+Mustafa Kemal Atatürk
+Namık Kemal
+Yaşar Kemal
+Kemalpaşa
+Mustafakemalpaşa
+Manos Hatzidakis
+"Gabriel García" may refer to: 
+Gabriel García Moreno
+Gabriel García Márquez
+Gabriel García de la Torre
+Black Tide
+Gabe Garcia (soccer)
+"Manchurians" may refer to: 
+Manchuria
+Northeast China
+Manchukuo
+Manchu people
+Manchuria (disambiguation)
+Manchurian (disambiguation)
+Manchu (disambiguation)
+"anti" may refer to: 
+Anti (mythology)
+Änti
+Áńt’į
+ANTI – Contemporary Art Festival
+Antiparticle
+Anti addition
+Anti conformation
+prefix
+Anti- (record label)
+Anti (album)
+Anti EP
+T. Raumschmiere
+Carlo Anti
+Michael Anti (sport shooter)
+Michael Anti (journalist)
+Asháninka people
+Ante (disambiguation)
+Opposition (disambiguation)
+Opposite (disambiguation)
+Special:Prefixindex/Anti
+All pages with titles containing Anti
+"Kingston Avenue" may refer to: 
+Kingston–Throop Avenues (IND Fulton Street Line)
+Kingston Avenue (IRT Eastern Parkway Line)
+"Cobleskill" may refer to: 
+Cobleskill (village), New York
+Cobleskill (town), New York
+Cobleskill Historic District
+SUNY Cobleskill
+Cobleskill Times Journal
+"South Kerry" may refer to: 
+County Kerry
+South Kerry GAA
+South Kerry (UK Parliament constituency)
+Kerry South (Dáil Éireann constituency)
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 104, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER +=1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 104, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER +=1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 104, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER +=1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 104, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER +=1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+
+
+APP_NAME: WikitoFile Local
+APP_ID: local-1477120890650
+MASTER_URL: local[*]
+UTC: 2016-10-22 07:21:28.175171
+
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"Paulo Ribeiro (disambiguation)" may refer to: 
+Paulo Machado
+João Paulo Pinto Ribeiro
+Paulo Almeida Ribeiro
+"Salhus" may refer to: 
+Salhus, Hordaland
+Salhus Church
+IL Norna-Salhus
+"Hagonoy" may refer to: 
+Hagonoy, Bulacan
+Hagonoy, Davao del Sur
+Chromolaena odorata
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 104, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 104, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 104, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 104, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+
+
+APP_NAME: WikitoFile Local
+APP_ID: local-1477122640603
+MASTER_URL: local[*]
+UTC: 2016-10-22 07:50:37.462541
+
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"Central Vermont Railway Station" may refer to: 
+Amherst station (Massachusetts)
+Bellows Falls station
+Brattleboro Museum and Art Center
+Essex Junction station
+Montpelier station (Vermont)
+New London Union Station
+Union Station (Palmer, Massachusetts)
+Randolph station (Vermont)
+St. Albans station (Vermont)
+Waterbury station (Vermont)
+White River Junction station
+Windsor station (Vermont)
+Page id "thomas poon squash player" does not match any pages. Try another id!
+Page id "howard brown" does not match any pages. Try another id!
+Page id "allan solomon" does not match any pages. Try another id!
+Page id "never balfour" does not match any pages. Try another id!
+Page id "witold bilecik" does not match any pages. Try another id!
+Page id "terry chatham" does not match any pages. Try another id!
+Page id "jug walid" does not match any pages. Try another id!
+Page id "bo bostrom" does not match any pages. Try another id!
+Page id "2012 men's world team squash championships" does not match any pages. Try another id!
+Page id "johann stoltenberg" does not match any pages. Try another id!
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+ERROR:py4j.java_gateway:An error occurred while trying to connect to the Java server (127.0.0.1:63606)
+Traceback (most recent call last):
+  File "/usr/local/Cellar/apache-spark/2.0.0/libexec/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 61] Connection refused
+An error occurred while trying to connect to the Java server (127.0.0.1:63606)
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+
+
+APP_NAME: WikitoFile Local
+APP_ID: local-1477122773059
+MASTER_URL: local[*]
+UTC: 2016-10-22 07:52:51.236314
+
+Page id "mile island disambiguation" does not match any pages. Try another id!
+Page id "1952 ncaa baseball season" does not match any pages. Try another id!
+Page id "1967 college baseball season" does not match any pages. Try another id!
+Page id "1950 ncaa baseball season" does not match any pages. Try another id!
+u'url'
+Page id "1880 college basketball season" does not match any pages. Try another id!
+Page id "1956 ncaa baseball season" does not match any pages. Try another id!
+Page id "1985 ncaa baseball season" does not match any pages. Try another id!
+Page id "1999 cal state los angeles golden eagles basketball team" does not match any pages. Try another id!
+Page id "1891 college basketball season" does not match any pages. Try another id!
+Page id "1950 ncaa baseball season" does not match any pages. Try another id!
+Page id "king's college cambridge" does not match any pages. Try another id!
+Page id "1972 college baseball season" does not match any pages. Try another id!
+Page id "1880 college basketball season" does not match any pages. Try another id!
+Page id "1950 ncaa baseball season" does not match any pages. Try another id!
+Page id "1964 college baseball season" does not match any pages. Try another id!
+Page id "1956 ncaa baseball season" does not match any pages. Try another id!
+Page id "1954 ncaa baseball season" does not match any pages. Try another id!
+Page id "1953 ncaa baseball season" does not match any pages. Try another id!
+Page id "1894 college basketball season" does not match any pages. Try another id!
+Page id "1989 florida gators basketball team" does not match any pages. Try another id!
+Page id "1887 college basketball season" does not match any pages. Try another id!
+Page id "1997 georgetown hoyas basketball team" does not match any pages. Try another id!
+Page id "1869 college basketball season" does not match any pages. Try another id!
+Page id "1982 ncaa basketball season" does not match any pages. Try another id!
+Page id "1954 ncaa baseball season" does not match any pages. Try another id!
+Page id "1952 ncaa baseball season" does not match any pages. Try another id!
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"Winterbach" may refer to: 
+Winterbach, Baden-Württemberg
+Winterbach, Bavaria
+Winterbach, Rhineland-Palatinate
+Winterbach (St. Wendel)
+Winterbach, Südwestpfalz
+Winterbach, Lower Austria
+Page id "1896 college basketball season" does not match any pages. Try another id!
+Page id "1952 ncaa baseball season" does not match any pages. Try another id!
+Page id "1954 ncaa baseball season" does not match any pages. Try another id!
+Page id "1948 ncaa baseball season" does not match any pages. Try another id!
+Page id "1898 college basketball season" does not match any pages. Try another id!
+Page id "1970 georgia bulldogs baseball team" does not match any pages. Try another id!
+Page id "1948 ncaa baseball season" does not match any pages. Try another id!
+Page id "1953 ncaa baseball season" does not match any pages. Try another id!
+Page id "1968 ncaa baseball season" does not match any pages. Try another id!
+Page id "1987 ncaa baseball season" does not match any pages. Try another id!
+Page id "1899 college basketball season" does not match any pages. Try another id!
+Page id "1976 eastern college athletic conference baseball tournament" does not match any pages. Try another id!
+Page id "1948 ncaa baseball season" does not match any pages. Try another id!
+Page id "1986 college baseball season" does not match any pages. Try another id!
+Page id "1894 college basketball season" does not match any pages. Try another id!
+Page id "1956 ncaa baseball season" does not match any pages. Try another id!
+Page id "1898 college basketball season" does not match any pages. Try another id!
+Page id "1983 ncaa baseball season" does not match any pages. Try another id!
+Page id "1948 ncaa baseball season" does not match any pages. Try another id!
+Page id "1895 college basketball season" does not match any pages. Try another id!
+Page id "1872 college basketball season" does not match any pages. Try another id!
+Page id "1951 ncaa baseball season" does not match any pages. Try another id!
+Page id "1956 ncaa baseball season" does not match any pages. Try another id!
+Page id "1982 ncaa basketball season" does not match any pages. Try another id!
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+ERROR:py4j.java_gateway:An error occurred while trying to connect to the Java server (127.0.0.1:64741)
+Traceback (most recent call last):
+  File "/usr/local/Cellar/apache-spark/2.0.0/libexec/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 61] Connection refused
+An error occurred while trying to connect to the Java server (127.0.0.1:64741)
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+
+
+APP_NAME: WikitoFile Local
+APP_ID: local-1477122805692
+MASTER_URL: local[*]
+UTC: 2016-10-22 07:53:24.001835
+
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"Telephone number portability" may refer to: 
+Mobile number portability
+Local number portability
+Toll-free number portability
+"WKNG" may refer to: 
+WKNG-FM
+WKNG (AM)
+Page id "peppers song" does not match any pages. Try another id!
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+
+
+APP_NAME: WikitoFile Local
+APP_ID: local-1477123620946
+MASTER_URL: local[*]
+UTC: 2016-10-22 08:06:59.142689
+
+Traceback (most recent call last):
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 188, in <module>
+    main(sc)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 58, in main
+    allSet.update(wikipedia.random(pages=10))
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 205, in random
+    request = _wiki_request(query_params)
+  File "/usr/local/lib/python2.7/site-packages/wikipedia/wikipedia.py", line 737, in _wiki_request
+    r = requests.get(API_URL, params=params, headers=headers)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 475, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 617, in send
+    history = [resp for resp in gen] if allow_redirects else []
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 177, in resolve_redirects
+    **adapter_kwargs
+  File "/usr/local/lib/python2.7/site-packages/requests/sessions.py", line 596, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/requests/adapters.py", line 423, in send
+    timeout=timeout
+  File "/usr/local/lib/python2.7/site-packages/requests/packages/urllib3/connectionpool.py", line 595, in urlopen
+    chunked=chunked)
+  File "/usr/local/lib/python2.7/site-packages/requests/packages/urllib3/connectionpool.py", line 386, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 1136, in getresponse
+    response.begin()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 756, in recv
+    return self.read(buflen)
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 643, in read
+    v = self._sslobj.read(len)
+  File "/usr/local/Cellar/apache-spark/2.0.0/libexec/python/lib/pyspark.zip/pyspark/context.py", line 223, in signal_handler
+KeyboardInterrupt
+
+
+APP_NAME: WikitoFile Local
+APP_ID: local-1477123339993
+MASTER_URL: local[*]
+UTC: 2016-10-22 08:02:18.255333
+
+Page id "elias umpires" does not match any pages. Try another id!
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"Mainline" may refer to: 
+Main line (railway)
+Main Line of Public Works
+Main Line (Pennsylvania Railroad)
+Philadelphia to Harrisburg Main Line
+Main Line (Long Island Rail Road)
+Main Line (NJ Transit)
+Main Line (Sri Lanka)
+SEPTA Main Line
+South Line, Tasmania
+Midland Mainline
+Mainline Freight
+Mainline (aeronautics)
+toll road
+First South Yorkshire
+McKenna Mendelson Mainline
+Hotter Than Hell
+Philadelphia Main Line
+Mainline Protestant
+Trunk
+BitTorrent (software)
+Bachmann
+intravenous
+Main line
+Main line
+Fork (software development)
+Mainliner (disambiguation)
+Page id "a.f.c bourne" does not match any pages. Try another id!
+Page id "wetter lines" does not match any pages. Try another id!
+Page id "lauter valley lines" does not match any pages. Try another id!
+Page id "lines mauritania" does not match any pages. Try another id!
+"Fructose bisphosphatase" may refer to: 
+Fructose 1,6-bisphosphatase
+Fructose 2,6-bisphosphatase
+Page id "battista caccini" does not match any pages. Try another id!
+Page id "shooting at the 1970 summer olympics men's trap" does not match any pages. Try another id!
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+ERROR:py4j.java_gateway:An error occurred while trying to connect to the Java server (127.0.0.1:56579)
+Traceback (most recent call last):
+  File "/usr/local/Cellar/apache-spark/2.0.0/libexec/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 61] Connection refused
+An error occurred while trying to connect to the Java server (127.0.0.1:56579)
+
+
+APP_NAME: WikitoFile Local
+APP_ID: local-1477123685191
+MASTER_URL: local[*]
+UTC: 2016-10-22 08:08:03.423808
+
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"Charles Caesar (disambiguation)" may refer to: 
+Charles Caesar
+Charles Caesar (1653–1694)
+Charles Caesar (Treasurer of the Navy)
+Page id "acetylator oxidase starch" does not match any pages. Try another id!
+Page id "bakers yeast glycol" does not match any pages. Try another id!
+Page id "2014 united states e coli outbreak" does not match any pages. Try another id!
+"E370" may refer to: 
+Samsung SGH-E370
+E number
+"Giant animal" may refer to: 
+Megafauna
+Megafauna (mythology)
+List of giant animals in fiction
+Largest organisms
+Largest prehistoric organisms
+Page id "minneapolis st paul" does not match any pages. Try another id!
+Page id "co educational" does not match any pages. Try another id!
+Page id "benzilate hydrocarbon" does not match any pages. Try another id!
+"Sandy, West Virginia" may refer to: 
+Sandy, Kanawha County, West Virginia
+Sandy, Monongalia County, West Virginia
+Sandy, Taylor County, West Virginia
+Little Sandy, West Virginia
+Big Sandy, West Virginia
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+
+
+APP_NAME: WikitoFile Local
+APP_ID: local-1477127192360
+MASTER_URL: local[*]
+UTC: 2016-10-22 09:06:29.779126
+
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"ajit" may refer to: 
+Ajit (given name)
+Ajit (newspaper)
+Ajith (film)
+HAL Ajeet
+Maitreya
+Ajita (disambiguation)
+Page id "countie of the worlds" does not match any pages. Try another id!
+"Bobcat Stadium" may refer to: 
+Bobcat Stadium (Montana State University)
+Bobcat Stadium (Texas State)
+Page id "tokyo gubernatorial elections 1992" does not match any pages. Try another id!
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+
+
+APP_NAME: WikitoFile Local
+APP_ID: local-1477171816451
+MASTER_URL: local[*]
+UTC: 2016-10-22 21:30:13.619339
+
+Page id "nash mekong" does not match any pages. Try another id!
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"Samoyed" may refer to: 
+Samoyedic peoples
+Samoyedic languages
+Samoyed (dog)
+Page id "nash langer" does not match any pages. Try another id!
+Page id "nash kraft" does not match any pages. Try another id!
+Page id "nash jamyang" does not match any pages. Try another id!
+"Polk Township" may refer to: 
+Polk Township
+Polk Township
+Polk Township
+Polk Township, Macoupin County, Illinois
+Polk Township, Huntington County, Indiana
+Polk Township, Marshall County, Indiana
+Polk Township, Monroe County, Indiana
+Polk Township, Washington County, Indiana
+Polk Township, Benton County, Iowa
+Polk Township, Bremer County, Iowa
+Polk Township
+Polk Township
+Polk Township
+Polk Township
+Polk Centre Township, Pennington County, Minnesota
+Polk Township, Adair County, Missouri
+Polk Township, Atchison County, Missouri
+Polk Township
+Polk Township
+Polk Township
+Polk Township
+Polk Township
+Polk Township
+Polk Township
+Polk Township
+East Polk Township
+East Polk Township
+West Polk Township
+Polk Township, Crawford County, Ohio
+Polk Township, Jefferson County, Pennsylvania
+Polk Township, Monroe County, Pennsylvania
+All pages beginning with "Polk Township"
+Polk (disambiguation)
+"Sălătruc River" may refer to: 
+Sălătruc River
+Sălătruc River
+Sălătruc River
+Sălătruc River
+Sălătruc River
+Sălătruc River
+Sălătruc River
+Sălătruc River
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 106, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 111, in dictsToJson
+    DTJ_COUNTER += 1
+UnboundLocalError: local variable 'DTJ_COUNTER' referenced before assignment
+
+
+
+APP_NAME: WikitoFile Local
+APP_ID: app-20161023043614-0004
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-23 04:36:44.736211
+
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"YY" may refer to: 
+YY (social network)
+yy (digraph)
+Yy (musician)
+call sign
+Robert Wilson Lynd
+Peptide YY
+Page id "we're new hampshire" does not match any pages. Try another id!
+Page id "brooklyn new hampshire" does not match any pages. Try another id!
+"Joseph Gilbert" may refer to: 
+Joseph Gilbert (Royal Navy)
+Joseph Gilbert (minister)
+Joseph Gilbert (politician)
+Joe Gilbert (musician)
+Joseph Gilbert (RAF officer)
+J. W. Marcel Gilbert
+Joseph Henry Gilbert
+Joseph Gilbert (winemaker)
+Joseph Gilbert (cricketer)
+Joe Gilbert (baseball)
+Joey Gilbert
+Edward Joseph Gilbert
+Gilbert Joseph Cullen Dyett
+Joseph Gilbert Totten
+Joseph Gilbert Hamilton
+Nicolas Joseph Laurent Gilbert
+Tookie Gilbert
+('Connection aborted.', error(60, 'Operation timed out'))
+'popitem(): dictionary is empty'
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 105, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 114, in dictsToJson
+    flushIO(wikidict,"wiki",language,currCounter)
+NameError: global name 'flushIO' is not defined
+
+'popitem(): dictionary is empty'
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 105, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 114, in dictsToJson
+    flushIO(wikidict,"wiki",language,currCounter)
+NameError: global name 'flushIO' is not defined
+
+'popitem(): dictionary is empty'
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 105, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 114, in dictsToJson
+    flushIO(wikidict,"wiki",language,currCounter)
+NameError: global name 'flushIO' is not defined
+
+'popitem(): dictionary is empty'
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 105, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 114, in dictsToJson
+    flushIO(wikidict,"wiki",language,currCounter)
+NameError: global name 'flushIO' is not defined
+
+
+
+APP_NAME: WikitoFile Local
+APP_ID: app-20161023044654-0005
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-23 04:47:24.521911
+
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"Witz" may refer to: 
+Witz
+Monstre Witz
+Hix Witz
+Konrad Witz
+romantisme allemand
+Saint-Witz
+"John Hamilton" may refer to: 
+John Hamilton
+John Marshall Hamilton
+John Hamilton
+John Hamilton
+John F. Hamilton
+John « Red » Hamilton
+John Hamilton
+Hamilton
+"C9H7N" may refer to: 
+Quinoléine
+quinoléine
+isoquinoléine
+
+"Macabre (homonymie)" may refer to: 
+Macabre
+Danse macabre (homonymie)
+La Balade du Grand Macabre
+Le Grand Macabre
+Macabre
+Macabre
+Lunatic Asylum
+Morte Macabre
+Chapitre macabre
+Le Sorcier macabre
+constante macabre
+"Bouquet final (homonymie)" may refer to: 
+Bouquet final
+feu d’artifice
+Bouquet final
+Bouquet final
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+"Milbank" may refer to: 
+Milbank (South Dakota)
+Dana Milbank
+"Liberal" may refer to: 
+Liberalismus
+Wirtschaftsliberalismus
+Liberales Judentum
+Liberale Theologie
+Liberale Bewegungen im Islam
+Friedrich-Naumann-Stiftung für die Freiheit #Sonstiges
+Liberal (1884)
+Liberal (Indiana)
+Liberal (Kansas)
+Liberal (Missouri)
+Liberal (Oregon)
+"Constantina Diţă" may refer to: 
+
+"Adelssitz" may refer to: 
+Rittergut
+Burg
+Schloss
+Ansitz
+"Aragon" may refer to: 
+Krone Aragon
+Aragonien
+Aragón (Fluss)
+Aragon (Schiff)
+Aragon (Band)
+JDC Group
+Aragon (Aude)
+Aragon (Georgia)
+Aragon (Catron County, New Mexico)
+Aragon (Cibola County, New Mexico)
+Aragon (San Miguel County, New Mexico)
+Aragon (Texas)
+Aragon Park
+Aragon Place
+Aragon Creek (Lincoln County, New Mexico)
+Aragon Creek (San Miguel County, New Mexico)
+Aragon Ditch
+Aragon Mine
+Aragon and Little Prospect
+Agustina de Aragón
+Alfonso de Aragón y Eiximenis
+Alfonso de Aragón y Foix
+Alphonse Marie Louis comte de Saint-Sévérin d’Aragon
+Antonio de Aragón-Córdoba-Cardona y Fernández de Córdoba
+Art Aragon
+Charles de Bancalis de Maurel d’Aragon
+Emilio Aragón
+Enrique O. Aragón
+Enrique Valles y Soler de Aragón
+Francisco de Borja y Aragón
+Jaime de Mora y Aragón
+Lorenzo Aragón
+Louis Aragon
+Manuel Gutiérrez Aragón
+Tomás Antonio de la Cerda y Aragón
+Yosvany Aragón
+Alfons V. (Aragón)
+Beatrix von Aragón
+Ferdinando von Aragón (1030–1082)
+Ferdinand I. (Aragón)
+Ferdinand II. (Aragón)
+Ferdinand von Aragón (1488–1550)
+Katharina von Aragón
+BM Aragón
+Motorland Aragón
+Aragorn
+"Minssen" may refer to: 
+Friedrich Minssen
+Heiner Minssen
+Heinz Minssen
+"Bergère" may refer to: 
+Bergère (Sessel)
+Bergère (Hut)
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+"Marcelo Silva" may refer to: 
+Marcelo José da Silva
+Marcelo Silva Ramos
+Marcelo Oliveira Silva
+"Huntington, South Carolina" may refer to: 
+Huntington, Laurens County, South Carolina
+Huntington, Sumter County, South Carolina
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+Page id "41 virgínia" does not match any pages. Try another id!
+Page id "96 virgínia" does not match any pages. Try another id!
+Page id "cu virgínia" does not match any pages. Try another id!
+Page id "65 virgínia" does not match any pages. Try another id!
+Page id "bf virgínia" does not match any pages. Try another id!
+Page id "aw virgínia" does not match any pages. Try another id!
+Page id "28 virgínia" does not match any pages. Try another id!
+Page id "53 virgínia" does not match any pages. Try another id!
+Page id "ah virgínia" does not match any pages. Try another id!
+Page id "cs virgínia" does not match any pages. Try another id!
+Page id "bh virgínia" does not match any pages. Try another id!
+Page id "87 virgínia" does not match any pages. Try another id!
+Page id "az virgínia" does not match any pages. Try another id!
+Page id "64 virgínia" does not match any pages. Try another id!
+Page id "57 virgínia" does not match any pages. Try another id!
+Page id "95 virgínia" does not match any pages. Try another id!
+Page id "110 virgínia" does not match any pages. Try another id!
+Page id "92 virgínia" does not match any pages. Try another id!
+Page id "66 virgínia" does not match any pages. Try another id!
+Page id "94 virgínia" does not match any pages. Try another id!
+Page id "46 virgínia" does not match any pages. Try another id!
+Page id "dl virgínia" does not match any pages. Try another id!
+Page id "bk virgínia" does not match any pages. Try another id!
+Page id "63 virgínia" does not match any pages. Try another id!
+Page id "ax virgínia" does not match any pages. Try another id!
+Page id "83 virgínia" does not match any pages. Try another id!
+Page id "13 virgínia" does not match any pages. Try another id!
+Page id "11 virgínia" does not match any pages. Try another id!
+Page id "89 virgínia" does not match any pages. Try another id!
+Page id "86 virgínia" does not match any pages. Try another id!
+Page id "dm virgínia" does not match any pages. Try another id!
+Page id "ag virgínia" does not match any pages. Try another id!
+Page id "17 virgínia" does not match any pages. Try another id!
+Page id "12 virgínia" does not match any pages. Try another id!
+Page id "106 virgínia" does not match any pages. Try another id!
+Page id "84 virgínia" does not match any pages. Try another id!
+Page id "27 virgínia" does not match any pages. Try another id!
+Page id "20 virgínia" does not match any pages. Try another id!
+Page id "os x" does not match any pages. Try another id!
+Page id "75 virgínia" does not match any pages. Try another id!
+Page id "80 virgínia" does not match any pages. Try another id!
+Page id "73 virgínia" does not match any pages. Try another id!
+Page id "33 virgínia" does not match any pages. Try another id!
+Page id "77 virgínia" does not match any pages. Try another id!
+Page id "48 virgínia" does not match any pages. Try another id!
+Page id "37 virgínia" does not match any pages. Try another id!
+Page id "cx virgínia" does not match any pages. Try another id!
+Page id "69 virgínia" does not match any pages. Try another id!
+Page id "10 virgínia" does not match any pages. Try another id!
+Page id "38 virgínia" does not match any pages. Try another id!
+Page id "bb virgínia" does not match any pages. Try another id!
+Page id "al virgínia" does not match any pages. Try another id!
+Page id "35 virgínia" does not match any pages. Try another id!
+Page id "dk virgínia" does not match any pages. Try another id!
+Page id "104 virgínia" does not match any pages. Try another id!
+Page id "56 virgínia" does not match any pages. Try another id!
+Page id "54 virgínia" does not match any pages. Try another id!
+Page id "34 virgínia" does not match any pages. Try another id!
+Page id "71 virgínia" does not match any pages. Try another id!
+Page id "55 virgínia" does not match any pages. Try another id!
+Page id "108 virgínia" does not match any pages. Try another id!
+Page id "49 virgínia" does not match any pages. Try another id!
+Page id "72 virgínia" does not match any pages. Try another id!
+Page id "62 virgínia" does not match any pages. Try another id!
+Page id "85 virgínia" does not match any pages. Try another id!
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
