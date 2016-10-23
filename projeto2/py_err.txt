@@ -1266,3 +1266,90 @@ Page id "85 virgínia" does not match any pages. Try another id!
 'popitem(): dictionary is empty'
 'popitem(): dictionary is empty'
 'popitem(): dictionary is empty'
+
+
+APP_NAME: WikitoFile Local
+APP_ID: app-20161023052346-0006
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-23 05:24:15.846653
+
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"Xin'an Subdistrict" may refer to: 
+Xin'an Subdistrict, Shenzhen
+Xin'an Subdistrict, Mudanjiang
+Xin'an Subdistrict, Qitaihe
+Xin'an Subdistrict, Shuangyashan
+Xin'an Subdistrict, Wuxi
+Xin'an Subdistrict, Huichun
+Xin'an Subdistrict, Jilin City
+Xin'an Subdistrict, Anqiu
+Xin'an Subdistrict, Qingdao
+Xin'an Subdistrict, Quzhou
+"Pop art (disambiguation)" may refer to: 
+PopArt: Pet Shop Boys – The Hits
+Pop Art (album)
+Pop Art
+MPHO
+Pop Art, Inc.
+'popitem(): dictionary is empty'
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 107, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 117, in dictsToJson
+    currCounter = DTJ_COUNTER[0]
+KeyError: 0
+
+'popitem(): dictionary is empty'
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 107, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 117, in dictsToJson
+    currCounter = DTJ_COUNTER[0]
+KeyError: 0
+
+'popitem(): dictionary is empty'
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 107, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 117, in dictsToJson
+    currCounter = DTJ_COUNTER[0]
+KeyError: 0
+
+'popitem(): dictionary is empty'
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 107, in getPages
+    dictsToJson(wikidict,linkdict,language)
+  File "/Users/ederalcazar/Documents/Repositories/mc855/projeto2/wtf.py", line 117, in dictsToJson
+    currCounter = DTJ_COUNTER[0]
+KeyError: 0
+

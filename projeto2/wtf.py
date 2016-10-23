@@ -114,7 +114,7 @@ def dictsToJson(wikidict,linkdict,language):
             DTJ_COUNTER[language] +=1
         else:
             DTJ_COUNTER[language] = 0
-        currCounter = DTJ_COUNTER[0]
+        currCounter = DTJ_COUNTER[language]
     dictToJson(wikidict,"wiki",language,currCounter)
     dictToJson(linkdict,"link",language,currCounter,PRETTY_LINK_FILE)
 

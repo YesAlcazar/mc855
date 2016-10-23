@@ -96,3 +96,11 @@ UTC: 2016-10-23 04:47:24.521911
 == de: 257 Done ==
 == en: 257 Done ==
 == pt: 257 Done ==
+
+
+APP_NAME: WikitoFile Local
+APP_ID: app-20161023052346-0006
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-23 05:24:15.846653
+
+== en: 50 Done ==
