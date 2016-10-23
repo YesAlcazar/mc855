@@ -44,7 +44,7 @@ RANDOM_TIMES = 5
 
 #****Write Main Code:
 def main(sc=None):
-    languages = {"en"}#{"en","fr","pt","de"}
+    languages = {"en","fr","pt","de"}
     wikipedia.set_rate_limiting(True)
     multiLimitRange = range(MULTITHREAD_LIMIT)
     for language in languages:
@@ -54,6 +54,8 @@ def main(sc=None):
             for i in xrange(RANDOM_TIMES):
                 try:
                     allSet.update(wikipedia.random(pages=10))
+                except wikipedia.exceptions.DisambiguationError as e:
+                    allSet.update(e.options)
                 except Exception as e:
                     print >> sys.stderr, e
             readySet = sets.Set()
@@ -92,8 +94,7 @@ def getPages(language,allSet,readySet):
             i +=1
             if i%FLUSH_IO_BATCH == 0:
                 try:
-                    my_thread = threading.Thread(target=dictsToJson,args=(wikidict,linkdict,language))
-                    my_thread.start()
+                    threading.Thread(target=dictsToJson,args=(wikidict,linkdict,language)).start()
                     wikidict = {}
                     linkdict = {}
                 except Exception as e:
@@ -104,14 +105,14 @@ def getPages(language,allSet,readySet):
     dictsToJson(wikidict,linkdict,language)
 
 IO_LOCK = threading.RLock()
-DTJ_COUNTER = 0
+DTJ_COUNTER = [0]
 def dictsToJson(wikidict,linkdict,language):
     currCounter = 0
     with IO_LOCK:
-        DTJ_COUNTER +=1
-        currCounter = DTJ_COUNTER
-    flushIO(wikidict,"wiki",language,currCounter)
-    flushIO(linkdict,"link",language,currCounter)
+        DTJ_COUNTER[0] +=1
+        currCounter = DTJ_COUNTER[0]
+    dictToJson(wikidict,"wiki",language,currCounter)
+    dictToJson(linkdict,"link",language,currCounter)
 
 def dictToJson(dict,fileID,language="",uniqueID=0):
     try:
@@ -138,10 +139,9 @@ def queuePages(pageNames,allSet,readySet):
 def addPage(wikidict,linkdict,allSet,readySet):
     pageName = ""
     try:
-        if len(readySet)>0:
-            pageName=readySet.pop().encode('utf-8')
-        else:
-            return False;
+        pageName=readySet.pop().encode('utf-8')
+    except ValueError as e:
+        return False
     except Exception as e:
         print >> sys.stderr, e
         return False;
