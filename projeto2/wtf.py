@@ -42,7 +42,8 @@ MULTITHREAD_LIMIT = 4
 FLUSH_IO_BATCH = 64
 RANDOM_TIMES = 5
 FULL_WIKI_FILE = False
-PRETTY_LINK_FILE = False
+PRETTY_LINK_FILE = True
+PRETTY_WIKI_FILE = True
 LANGUAGES = {"en"}#{"en","fr","pt","de"}
 
 #****Write Main Code:
@@ -115,7 +116,7 @@ def dictsToJson(wikidict,linkdict,language):
         else:
             DTJ_COUNTER[language] = 0
         currCounter = DTJ_COUNTER[language]
-    dictToJson(wikidict,"wiki",language,currCounter)
+    dictToJson(wikidict,"wiki",language,currCounter,PRETTY_WIKI_FILE)
     dictToJson(linkdict,"link",language,currCounter,PRETTY_LINK_FILE)
 
 def dictToJson(dict,fileID,language="",uniqueID=0,prettyFile=True):

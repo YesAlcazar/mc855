@@ -1353,3 +1353,35 @@ Traceback (most recent call last):
     currCounter = DTJ_COUNTER[0]
 KeyError: 0
 
+
+
+APP_NAME: WikitoFile Local
+APP_ID: app-20161023052551-0007
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-23 05:26:22.001455
+
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"Beaching" may refer to: 
+Cetacean stranding
+Beaching (nautical)
+Beached (naval)
+Beached Festival
+Beachin'
+Richard Beeching
+"Guillermo Alvarez" may refer to: 
+Guillermo Álvarez
+Guillermo Alvarez (gymnast)
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
