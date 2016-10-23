@@ -123,7 +123,7 @@ def dictsToJson(wikidict,linkdict,language):
 def dictToJson(dict,fileID,language="",uniqueID=0,prettyFile=True):
     try:
         #data\wiki_en_20161021_120000_000001.json
-        fjson = open ("data/%s_%s_%s_%06d.json" % (fileID, language, CREATION_TIME.strftime("%Y%m%d_%H%M%S") , uniqueID), "w")
+        fjson = open ("data/%s/%s_%s/%08d.json" % (fileID, language, CREATION_TIME.strftime("%Y%m%d_%H%M%S") , uniqueID), "w")
         if prettyFile:
             json.dump(dict, fjson, sort_keys=True, indent=4)
         else:
@@ -169,10 +169,13 @@ def addPage(wikidict,linkdict,allSet,readySet):
         queuePages(e.options,allSet,readySet)
     except wikipedia.exceptions.PageError as e:
         print >> sys.stderr, e
+        time.sleep(1)
     except requests.exceptions.ConnectionError as e:
         print >> sys.stderr, e
+        time.sleep(1)
     except wikipedia.exceptions.WikipediaException as e:
         print >> sys.stderr, e
+        time.sleep(1)
     except Exception as e:
         print >> sys.stderr, e
         time.sleep(1)

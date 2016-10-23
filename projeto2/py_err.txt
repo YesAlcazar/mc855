@@ -1976,4 +1976,101 @@ EOF occurred in violation of protocol (_ssl.c:590)
 ('Connection aborted.', error(54, 'Connection reset by peer'))
 EOF occurred in violation of protocol (_ssl.c:590)
 ('Connection aborted.', BadStatusLine("''",))
-('Connection aborted.', BadStatus
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+EOF occurred in violation of protocol (_ssl.c:590)
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+EOF occurred in violation of protocol (_ssl.c:590)
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+EOF occurred in violation of protocol (_ssl.c:590)
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+EOF occurred in violation of protocol (_ssl.c:590)
+EOF occurred in violation of protocol (_ssl.c:590)
+HTTPConnectionPool(host='en.wikipedia.org', port=80): Read timed out. (read timeout=None)
+EOF occurred in violation of protocol (_ssl.c:590)
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+EOF occurred in violation of protocol (_ssl.c:590)
+HTTPConnectionPool(host='en.wikipedia.org', port=80): Read timed out. (read timeout=None)
+EOF occurred in violation of protocol (_ssl.c:590)
+EOF occurred in violation of protocol (_ssl.c:590)
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+EOF occurred in violation of protocol (_ssl.c:590)
+('Connection aborted.', error(60, 'Operation timed out'))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', BadStatusLine("''",))
+HTTPConnectionPool(host='en.wikipedia.org', port=80): Read timed out. (read timeout=None)
+('Connection aborted.', BadStatusLine("''",))
+EOF occurred in violation of protocol (_ssl.c:590)
+"South Park (disambiguation)" may refer to: 
+South Park
+The South Park Movie: Bigger, Longer & Uncut
+South Park (video game)
+South Park: Chef's Luv Shack
+South Park: The Stick of Truth
+South Park Rally
+South Park (pinball)
+South Park Let's Go Tower Defense Play!
+South Park Republican
+South Park Mexican
+Children's Ward
+South Park F.C.
+South Park, London (disambiguation)
+South Park, Fulham
+South Park, Ilford
+South Park Primary School
+South Park, Oxford
+Southpark Village
+South Park, Los Angeles
+South Park (Downtown Los Angeles)
+South Park, San Diego
+South Park, San Francisco
+Alamo Square Park, Colorado Springs
+South Park (Saguache County, Colorado)
+South Park National Heritage Area
+South Park (Park County, Colorado)
+Fairplay, Colorado
+South Park City Museum
+South Park Railroad
+South Park, Louisville
+Cazenovia Park-South Park System
+SouthPark (Charlotte neighborhood)
+South Park (RTA Rapid Transit station)
+South Park Historic District (disambiguation)
+South Park Historic District (Dayton, Ohio)
+South Park Blocks
+South Park (PAT station)
+South Park (Pittsburgh)
+South Park Township, Allegheny County, Pennsylvania
+South Park School District
+South Park, Houston
+South Park, Seattle, Washington
+Morga
