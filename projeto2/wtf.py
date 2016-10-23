@@ -37,19 +37,20 @@ import sets
 import json
 
 #****Put Globals Here
-PAGE_LIMIT = 256-256
+PAGE_LIMIT = 4096
 MULTITHREAD_LIMIT = 4
 FLUSH_IO_BATCH = 64
 RANDOM_TIMES = 5
 FULL_WIKI_FILE = False
 PRETTY_LINK_FILE = True
 PRETTY_WIKI_FILE = True
-LANGUAGES = {"en"}#{"en","fr","pt","de"}
+LANGUAGES = ["de","en","fr","pt"]
 
 #****Write Main Code:
 def main(sc=None):
     wikipedia.set_rate_limiting(True)
     multiLimitRange = range(MULTITHREAD_LIMIT)
+    LANGUAGES.sort()
     for language in LANGUAGES:
         try:
             wikipedia.set_lang(language)
