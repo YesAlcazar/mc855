@@ -1385,3 +1385,595 @@ Guillermo Alvarez (gymnast)
 'popitem(): dictionary is empty'
 'popitem(): dictionary is empty'
 'popitem(): dictionary is empty'
+
+
+APP_NAME: WikitoFile Local
+APP_ID: app-20161023053316-0008
+MASTER_URL: spark://143.106.73.43:7077
+UTC: 2016-10-23 05:33:45.078256
+
+Page id "heinz brill" does not match any pages. Try another id!
+Page id "katastrophe von tschornobyl" does not match any pages. Try another id!
+Page id "helmut cross" does not match any pages. Try another id!
+Page id "solarpark le lauzet" does not match any pages. Try another id!
+Page id "mouvement military maurice" does not match any pages. Try another id!
+Page id "ousmane tabor diego" does not match any pages. Try another id!
+/usr/local/lib/python2.7/site-packages/bs4/__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 774 of the file /usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "html.parser")
+
+  markup_type=markup_type))
+"Internist (Begriffsklärung)" may refer to: 
+Innere Medizin
+INTERNIST
+Der Internist
+"Radio Leipzig" may refer to: 
+Radio Leipzig (1945)
+Radio Leipzig (1993)
+Page id "christiane hörbiger" does not match any pages. Try another id!
+"Kurt Magnus" may refer to: 
+Kurt Magnus (Rundfunkpionier)
+Kurt Magnus (Ingenieur)
+Page id "deutscher schriftstellerinnen und" does not match any pages. Try another id!
+"terra" may refer to: 
+Erde
+Seat Terra
+Terra (Astrogeologie)
+Terra (Baumaschinenhersteller)
+Terra (Film)
+Terra (Internetunternehmen)
+Terra (Lernbuch)
+Terra (Satellit)
+Terra Utopische Romane
+Terra (Verlag)
+Terra (Währung)
+Terra Film
+Terra Firma Capital Partners
+Terraforming
+Terracotta
+Terra Rossa
+Terra incognita
+Terra Mater
+Terra Networks
+Terra Technik
+Terra (Zypern)
+Duvimioso Terra
+Ferrán Terra
+Gabriel Terra
+Hans-Adolf de Terra
+Javier Terra
+João Evangelista Martins Terra
+Max de Terra
+Miguel Ventura Terra
+Renato Terra
+TERRA Framework
+Wortmann AG
+Terra Australis
+Terran
+Terroir
+Tera
+Thera
+Page id "heinz breuil" does not match any pages. Try another id!
+u'url'
+"Rudolf Walther" may refer to: 
+Rudolf Gwalther
+Rudolf Walther (Unternehmer)
+Rudolf Walther (Historiker)
+Rudolf Walther-Fein
+Rudolf Walther von Monbary
+Rudolf Walter
+Rudolph Walther
+Page id "route zeller" does not match any pages. Try another id!
+Page id "hans dieter hellwig" does not match any pages. Try another id!
+Page id "jonathan monk beck" does not match any pages. Try another id!
+Page id "julian mateos paulo" does not match any pages. Try another id!
+Page id "katharina agatha" does not match any pages. Try another id!
+"Wolfgang Schneider" may refer to: 
+Wolfgang Schneider (Pharmaziehistoriker)
+Wolfgang Schneider (Mediziner)
+Wolfgang Schneider (Kunsthistoriker)
+Wolfgang Schneider (Schachspieler)
+Wolfgang Schneider (Musiker)
+Wolfgang Schneider (Architekt)
+Wolfgang Schneider (Psychologe)
+Wolfgang Schneider (Militärhistoriker)
+Wolfgang Schneider (Journalist)
+Wolfgang Schneider (Pädagoge)
+Wolfgang Schneider (Kulturwissenschaftler)
+Wolfgang Schneider (Literaturkritiker)
+Wolfgang Schneider (Schauspieler)
+Wolfgang Schneider (Moderator)
+Wolfgang Schneider (Leichtathlet)
+Wolfgang Schneider (Fußballspieler)
+"Bayernwerk AG" may refer to: 
+Bayernwerk
+Bayernwerk (Energieversorger)
+"Objektivismus" may refer to: 
+Objektivität
+Subjektivismus
+Objektivismus (Ayn Rand)
+Page id "channel kabila" does not match any pages. Try another id!
+"Vic (Begriffsklärung)" may refer to: 
+Vicarius
+Kanton Vic-en-Bigorre
+Kanton Vic-Fezensac
+Kanton Vic-le-Comte
+Kanton Vic-sur-Aisne
+Kanton Vic-sur-Cère
+Kanton Vic-sur-Seille
+Vic
+Vic-de-Chassenay
+Vic-des-Prés
+Vic-en-Bigorre
+Vic-Fezensac
+Vic-la-Gardiole
+Vic-le-Comte
+Vic-le-Fesq
+Vic-sous-Thil
+Vic-sur-Aisne
+Vic-sur-Cère
+Vic-sur-Seille
+Francesc de Castellví i de Vic
+vicinal
+chemischen Nomenklatur
+Vicenza Airport
+Victoria
+Victualling Inshore Craft
+MOS Technology VIC
+Vienna International Centre
+Premiere
+Wissensbilanz
+Vich
+Vicq
+Vicques
+u'url'
+Page id "joseph salomon federal" does not match any pages. Try another id!
+Page id "ulrich brinkmann" does not match any pages. Try another id!
+Page id "waggoner wald" does not match any pages. Try another id!
+Page id "christian geburt" does not match any pages. Try another id!
+Page id "puls reiner" does not match any pages. Try another id!
+Page id "wolke des hörspiels" does not match any pages. Try another id!
+Page id "cornelius neuberg" does not match any pages. Try another id!
+Page id "maison baden" does not match any pages. Try another id!
+Page id "chor der kampfgruppe des staatliches rundfunkkomitee der ddr" does not match any pages. Try another id!
+Page id "theo grande" does not match any pages. Try another id!
+"Berliner Zeitung (Begriffsklärung)" may refer to: 
+Berliner Zeitung
+B.Z.
+Berliner Zeitung (Petsch)
+Page id "jan rheinberger" does not match any pages. Try another id!
+Page id "hanna hundert" does not match any pages. Try another id!
+"ende" may refer to: 
+Schluss (Literatur)
+Abspann
+Tauwerk
+Jägersprache
+Sterben
+Weltuntergang
+Ende (Film)
+Ende (Kategorientheorie)
+Ende (Topologie)
+Ende (Herdecke)
+Ende (Wissen)
+Ende (Flores)
+Ende (Regierungsbezirk)
+Ende (Insel)
+am Ende
+Hans am Ende
+von Ende
+Carl Gottlob von Ende
+Leopold Nicolaus von Ende
+Adolf von Ende
+Friedrich Albrecht Gotthilf von Ende
+Otto von Ende
+August von Ende
+Reimer von Ende
+Siegfried von Ende
+Margarethe Krupp
+Felix von Ende
+Gabriele von Ende
+Adolf Ende
+Edgar Ende
+Hermann Ende
+Horst Ende
+Horst Ende
+Joop van den Ende
+Konrad Ende
+Mario van der Ende
+Michael Ende
+Paul Ende
+Sascha Ende
+Werner Ende
+DDR von unten
+ND
+Beendigung
+Endung
+Verendung
+Das Ende
+The End
+Haus Ende
+"enemy" may refer to: 
+2013
+Enemy – Tempest of Violence
+Kristeen Young
+Page id "ou la haiti" does not match any pages. Try another id!
+Page id "patrick cowley" does not match any pages. Try another id!
+Page id "senna flesh" does not match any pages. Try another id!
+"Reichsgesetzblatt (Begriffsklärung)" may refer to: 
+Reichsgesetzblatt (Frankfurter Nationalversammlung)
+Reichsgesetzblatt
+Reichsgesetzblatt (Österreich)
+Bundesgesetzblatt
+Page id "ssv" does not match any pages. Try another id!
+Page id "belaruskaja sazyjal demakratytschnaja partija narodna hramada" does not match any pages. Try another id!
+Page id "moskauer rundfunks" does not match any pages. Try another id!
+Page id "klaus jürgen gansel" does not match any pages. Try another id!
+Page id "organisation du peuple en luise" does not match any pages. Try another id!
+Page id "partido democrática progressiva" does not match any pages. Try another id!
+"Knorre" may refer to: 
+Ernst Christoph Friedrich Knorre
+Eugen Karl von Knorre
+Karl Friedrich Knorre
+Karl Gottlieb Knorre
+Martin Knorre
+Otto Heinrich Knorre
+Susanne Knorre
+Viktor Knorre
+Wolfgang Knorre
+Knorr
+Page id "partei lumumbiste unified" does not match any pages. Try another id!
+Page id "erwin meine" does not match any pages. Try another id!
+Page id "günther keltischer" does not match any pages. Try another id!
+"Neuhold" may refer to: 
+Angelika Neuhold
+Christoph Neuhold
+Florian Neuhold
+Günter Neuhold
+Hanspeter Neuhold
+Helmut Neuhold
+Page id "grosse choi des berliner rundfunk" does not match any pages. Try another id!
+Page id "karin klinger" does not match any pages. Try another id!
+"SPD (Begriffsklärung)" may refer to: 
+Sozialdemokratische Partei Deutschlands
+Svoboda a přímá demokracie
+Sozialpsychiatrischer Dienst
+Serial Presence Detect
+Shanghai Pudong Development Bank
+Flughafens Saidpur
+Shimano Pedaling Dynamics
+Slovensko Planinsko Društvo Celovec
+SPD-Stellung
+Sports Power Drive
+Überspannungsableiter
+Matrix (Mathematik) #Eigenschaften von Bilinearformen
+European Association of Service Providers for Persons with Disabilities
+Page id "helmut waldert" does not match any pages. Try another id!
+Page id "partei gatinais du progrès" does not match any pages. Try another id!
+"The European (Begriffsklärung)" may refer to: 
+The European
+The European (Zeitung)
+Page id "bernhard jugend" does not match any pages. Try another id!
+Page id "norbert gary" does not match any pages. Try another id!
+"Coşbuc" may refer to: 
+
+Page id "tilman korps" does not match any pages. Try another id!
+"Danube" may refer to: 
+Danube (Métro Paris)
+Danube (New York)
+Blue Danube
+"Klaus Arnold" may refer to: 
+Klaus Arnold (Maler)
+Klaus Arnold (Historiker)
+Klaus Arnold (Medienwissenschaftler)
+Klaus Jochen Arnold
+Klaus P. Arnold
+Klaus Peter Arnold
+Claus Arnold
+"Otto Fischer" may refer to: 
+Otto Fischer (Mediziner, 1810)
+Otto Fischer (Chemiker)
+Otto Fischer (Jurist)
+Otto Fischer (Physiologe)
+Otto Fischer (Künstler, 1870)
+Otto Fischer (Schriftsteller)
+Otto Fischer (Kunsthistoriker)
+Otto Fischer (Mediziner, 1886)
+Otto Fischer (Fußballspieler)
+Otto Fischer (KPD, 1901)
+Otto Fischer (KPD, 1910)
+Otto Fischer (FDP)
+Otto Fischer (Künstler, 1963)
+Otto Fischer (KPÖ)
+Otto Fischer-Lamberg
+Otto Fischer-Trachau
+Otto Christian Fischer
+O. W. Fischer
+Page id "ludwig dietmar" does not match any pages. Try another id!
+Page id "oncology" does not match any pages. Try another id!
+Page id "parti fusion des social democratic haitiens" does not match any pages. Try another id!
+Page id "partido movement anita nobo" does not match any pages. Try another id!
+"Flesch" may refer to: 
+Ármin Flesch
+Armin H. Flesch
+Carl Flesch
+Colette Flesch
+Gerhard Flesch
+Gustav Flesch-Brunningen
+Hans Flesch
+Hans Flesch-Brunningen
+H&N
+Jacob Flesch
+János Flesch
+Karl Flesch
+Karl Flesch (Dichter)
+Kirsten Flesch
+Luma Flesch-Brunningen
+Marlies Flesch-Thebesius
+Max Flesch
+Max Flesch (Politiker)
+Max Flesch-Thebesius
+Oliver Flesch
+Reinhard Flesch
+Richard K. Flesch
+Rosa Flesch
+Rudolf Flesch
+Siegfried Flesch
+Steve Flesch
+Fläsch
+Flash
+Flesh
+"APTN" may refer to: 
+Aboriginal Peoples Television Network
+Asia-Pacific Technology Network
+Associated Press Television News
+"LPK" may refer to: 
+Flughafen Lipezk
+Labour Party of Kenya
+Landespolizeikommando
+Landtagspräsidentenkonferenz
+UÇK
+Lietuvos pramonininkų konfederacija
+"Landesfunkhaus" may refer to: 
+Landesfunkhaus Niedersachsen
+Landesfunkhaus Sachsen
+MDR Sachsen-Anhalt#Landesfunkhaus
+Page id "axel schmiechen" does not match any pages. Try another id!
+Page id "victor benito" does not match any pages. Try another id!
+Page id "vivian pietro" does not match any pages. Try another id!
+Page id "tanzorchester des berliner rundfunk" does not match any pages. Try another id!
+"Clague" may refer to: 
+Frank Clague
+John J. Clague
+Kimberley Clague
+"markow" may refer to: 
+Aleksandar Markow (Fußballspieler)
+Aleksandar Markow (Turner)
+Alexander Wladimirowitsch Markow (Astronom)
+Alexander Wladimirowitsch Markow (Biologe)
+Alexei Michailowitsch Markow
+Andrei Andrejewitsch Markow (Mathematiker, 1856)
+Andrei Andrejewitsch Markow (Mathematiker, 1903)
+Andrei Sergejewitsch Markow
+Andrei Wiktorowitsch Markow
+Christo Markow
+Daniil Jewgenjewitsch Markow
+Emil Markow
+Gennadi Jewgenjewitsch Markow
+Georgi Markow (Schriftsteller)
+Georgi Markow (Ringer)
+Georgi Markow (Fußballspieler)
+Georgi Markow (Gewichtheber)
+Georgi Mokejewitsch Markow
+Ilja Wladislawowitsch Markow
+Iwan Markow
+John Markoff
+Mark Markow
+Moissei Alexandrowitsch Markow
+Nikolaj Jewgenjewitsch Markow
+Plamen Markow
+Sergei Leonidowitsch Markow
+Wladimir Andrejewitsch Markow
+Markow (Ivenack)
+Markow-Ungleichung
+Markow-Näherung
+Markow-Preis
+Markoff-Zahl
+Markov
+Markowa
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+'popitem(): dictionary is empty'
+u'url'
+"convention" may refer to: 
+Treaty
+Convention (meeting)
+Fan convention
+Gaming convention
+Political convention
+Trade fair
+Convention (norm)
+Bridge convention
+"The Convention" (The Office episode)
+"Convention" (Malcolm in the Middle episode)
+Conference (disambiguation)
+National Convention (disambiguation)
+Convection
+Page id "overall delaware" does not match any pages. Try another id!
+"blast" may refer to: 
+Explosion
+Detonation
+Blast! (1972 film)
+Blast (1997 film)
+Blast (2000 film)
+Blast (2004 film)
+BLAST! (2008 film)
+Blast (American band)
+Blast (Russian band)
+Blast! (musical)
+Blast (venue)
+C. L. Blast
+Blast (album)
+The Blast (album)
+"The Blast" (song)
+Blast! (comics)
+Blast (magazine)
+The Blast (newspaper)
+BLAST
+BLAST (protocol)
+BLAST (telescope)
+BLAST model checker
+Blast cell
+blast disease
+Bell Laboratories Layered Space-Time
+FreeX Blast
+Blast injury
+BLAST network
+BBC Blast
+Ray Foley
+animal referred to in the Bible
+plugin for Autodesk Maya
+Blast!
+Blaster (disambiguation)
+Blasting (disambiguation)
+u'url'
+Page id "jeffery mitchell" does not match any pages. Try another id!
+u'url'
+"University District" may refer to: 
+University District, Detroit
+University District, Columbus, Ohio
+University District, San Bernardino
+University District, Seattle
+Page id "stone house shoal massachusetts" does not match any pages. Try another id!
+u'url'
+Page id "barnett new jersey" does not match any pages. Try another id!
+Page id "initiative device circuit" does not match any pages. Try another id!
+u'url'
+Page id "gpus" does not match any pages. Try another id!
+Page id "kate jonas" does not match any pages. Try another id!
+u'url'
+u'url'
+Page id "tabula annunciation" does not match any pages. Try another id!
+Page id "january 31 february 2 2011 north american blizzard" does not match any pages. Try another id!
+Page id "initiative device" does not match any pages. Try another id!
+"XHD" may refer to: 
+Gigabyte Technology
+hard disk drive
+XHD-FM
+XHD-TV
+Page id "france tv series" does not match any pages. Try another id!
+"Great Lakes Treaty" may refer to: 
+Rush–Bagot Treaty
+Webster–Ashburton Treaty
+Boundary Waters Treaty of 1909
+Great Lakes Water Quality Agreement
+Great Lakes Charter
+Great Lakes–Saint Lawrence River Basin Sustainable Water Resources Agreement
+Great Lakes Compact
+v
+t
+e
+Erie
+Huron
+Michigan
+Ontario
+Superior
+Nipigon
+Nipissing
+St. Clair
+Simcoe
+Winnebago
+Detroit River
+Erie Canal
+French River
+Georgian Bay
+Great Lakes Waterway
+Green Bay
+Lake George
+Lake Kagawong
+Lake Manitou
+Lake Nicolet
+Manitou Passage
+Lake Mindemoya
+Munuscong Lake
+Niagara River
+Nipigon River
+North Channel
+Potagannissing Bay
+St. Clair River
+Saint Lawrence River
+Saint Lawrence Seaway
+St. Marys River
+Sault Ste. Marie Canal
+Soo Locks
+Straits of Mackinac
+Trent–Severn Waterway
+Welland Canal
+Detroit River
+Michigan (state)
+Ontario
+Lake Agassiz
+Lake Chicago
+Lake Maumee
+Mackinac Falls
+Midcontinent Rift System
+Niagara Escarpment
+Wisconsin glaciation
+Conference of Great Lakes and St. Lawrence Governors and Premiers
+Great Lakes Commission
+Great Lakes Fishery Commission
+International Joint Commission
+Basin
+Bays of the Great Lakes
+Great Lakes region
+Great Lake ships
+Lake-effect snow
+Lake Michigan–Huron
+Marine protected areas
+Megalopolis
+Native American tribes (US)
+Quebec City–Windsor Corridor
+Settlements
+Great Lakes museum and historic ships
+Lake freighter
+Tall ships
+Great Lakes Areas of Concern
+Great Lakes Treaties
+u'url'
+Page id "2008 major league baseball all star game" does not match any pages. Try another id!
+"Seattle (disambiguation)" may refer to: 
+Seattle (album)
+"Seattle" (song)
+Happy?
+Avishai Cohen
+I Think We're Gonna Need a Bigger Boat
+MS Seattle
+USS Seattle (ACR-11)
+USS Seattle (AOE-3)
+Chief Seattle
+Seattle University
+Seattle Redhawks
+Seattle–Tacoma International Airport
+All pages beginning with "Seattle"
+Page id "ray stephenson" does not match any pages. Try another id!
+Page id "want miles" does not match any pages. Try another id!
+EOF occurred in violation of protocol (_ssl.c:590)
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+EOF occurred in violation of protocol (_ssl.c:590)
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', error(54, 'Connection reset by peer'))
+EOF occurred in violation of protocol (_ssl.c:590)
+('Connection aborted.', BadStatusLine("''",))
+('Connection aborted.', BadStatus

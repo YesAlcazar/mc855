@@ -165,7 +165,7 @@ def addPage(wikidict,linkdict,allSet,readySet):
         linkdict[pageName]=links
         queuePages(links,allSet,readySet)
     except wikipedia.exceptions.DisambiguationError as e:
-        print >> sys.stderr, e
+        #print >> sys.stderr, e
         queuePages(e.options,allSet,readySet)
     except wikipedia.exceptions.PageError as e:
         print >> sys.stderr, e
