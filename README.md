@@ -22,7 +22,6 @@ export LC_ALL=en_US.UTF-8
 #Configuração de Ambiente:
 ```
 pip install requests
-pip install matplotlib
 pip install wikipedia
 mkdir downloads
 cd downloads
