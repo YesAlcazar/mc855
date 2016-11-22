@@ -14,6 +14,6 @@
 
 ## Resultados:
 
->Projeto de objetivo diferente, mas com grafo próximo ao obtido:
-> [Wikipedia Map](http://luke.deentaylor.com/wikipedia/)
+>Projeto de objetivo diferente, mas com grafo próximo ao obtido: [Wikipedia Map](http://luke.deentaylor.com/wikipedia/). A base de dados foi obtida via download 
+>
 >
