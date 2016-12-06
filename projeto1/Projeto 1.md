@@ -1,5 +1,10 @@
 # MC855 - Projeto 1
 
+## Slides:
+
+[Apresentação](https://docs.google.com/presentation/d/1deltK0eSpq3sJCXDTBeXXecgv7sdi0aKxqbySQp86yI/edit?usp=sharing)
+[Wikipedia Graph Visualizer](http://luke.deentaylor.com/wikipedia/)
+
 ## Objetivos:
 
 * Aprender a utilizar as ferramentas Hadoop e Spark
@@ -16,4 +21,4 @@
 ## Resultados:
 
 >O cluster dual mode teve melhor desempenho de tempo, embora o custo de memória tenha sido maior pela divisão e redundância necessária ao funcionamento do RDD
-> 
+>

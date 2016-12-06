@@ -65,10 +65,8 @@ cd ..
 
 [Getting Started with Spark (in Python)](https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python)
 
+[Wikipedia Graph Visualizer](http://luke.deentaylor.com/wikipedia/)
+
 ##Problemas:
 
 [StackOverflow - Locale Warning Perl](http://stackoverflow.com/questions/2499794/how-can-i-fix-a-locale-warning-from-perl)
-
-###Projeto 2
-
-[Wikipedia Graph Visulizer](http://luke.deentaylor.com/wikipedia/)
